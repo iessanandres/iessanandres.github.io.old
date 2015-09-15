@@ -14,14 +14,14 @@
     url: "/organosGobierno/"
   - title: "Departamentos y profesorado"
     url: "/departamentosYProfesorado/"
-  - title: "Documentos oficiales"
-    url: "/documentosOficiales/"
+  - title: "Documentos institucionales"
+    url: "/documentosInstitucionales/"
   - title: "Biblioteca"
     url: "/biblioteca/"
   - title: "Revista RIES"
     url: "/revistaRIES/"
   - title: "Intranet"
-    url: "https://podio.com/intranetiessanandrescom"
+    url: "https://podio.com/intranetiessanandrescom/intranet-2015-2016"
 
 - title: Formación Profesional
   url: "/"

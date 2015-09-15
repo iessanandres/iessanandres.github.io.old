@@ -19,6 +19,8 @@ show_meta: false
 * [Calendario escolar](http://www.educa.jcyl.es/es/informacion/calendario-escolar-2015-2016)
 * Libros de texto: no hay ningún libro de texto establecido de forma oficial.
 * Proceso de admisión de nuevos alumnos:
+  * [Listas definitivas de alumnos admitidos a septiembre de 2015](https://docs.google.com/spreadsheets/d/1ba-rapV5t2tLRvqL5tHyjNk6Ails1agiqfHCUroX1ag/pubhtml)
+  * [Listas provisionales de alumnos admitidos a septiembre de 2015](https://docs.google.com/spreadsheets/d/1TVfBpzArrA92w-BS5m0h1qZHxEzxc9cC5Y7HYt9vdmE/pubhtml)
   * [Listas definitivas de alumnos admitidos a julio de 2015](https://drive.google.com/uc?export=download&id=0B4jaZeMGL7HsX2V4czVwbFpXMjg)
   * [Listas provisionales de alumnos admitidos a julio de 2015](https://drive.google.com/uc?export=download&id=0B4jaZeMGL7HsNnpVQ0VTVWE4VTQ)
 * [Programa Erasmus](/erasmus/)
