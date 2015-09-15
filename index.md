@@ -14,15 +14,15 @@ widget-1:
     text: 'Si has cursado estudios en nuestro Centro o has sido admitido como nuevo alumno, consulta aquí las instrucciones para llevar a cabo la matriculación en nuestro Centro.'
     image: signup.jpg
 widget-2:
-    title: "Why use this theme?"
-    url: 'http://phlow.github.io/feeling-responsive/info/'
-    text: '<em>Feeling Responsive</em> is heavily customizable.<br>1. Language-Support :)<br>2. Optimized for speed and it&#39;s responsive.<br>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br>4. Seven different Headers.<br>5. Customizable navigation, footer,...'
-    video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
+    title: "Programa Releo"
+    url: 'releo'
+    text: 'El programa Releo pone a disposición del alumnado un banco de libros de texto mediante el sistema de préstamo y reutilización.'
+    image: libros.jpg
 widget-3:
-    title: "Download Theme"
-    url: 'https://github.com/Phlow/feeling-responsive'
-    text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
-    image: github-303x182.jpg
+    title: "Bilinguismo"
+    url: 'https://docs.google.com/document/d/1t3mk7u4adtUKU-ukNez-aVneINoghoyreFTMHssDD80/pub'
+    text: 'Conoce el proyecto de sección bilingüe de nuestro Centro, cuya finalidad es facilitar a los alumnos de ESO el aprendizaje del idioma inglés.'
+    image: bilinguismo.jpg
 ---
 
 

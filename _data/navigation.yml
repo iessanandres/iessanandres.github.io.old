@@ -23,6 +23,14 @@
   - title: "Intranet"
     url: "https://podio.com/intranetiessanandrescom/intranet-2015-2016"
 
+- title: ESO
+  url: "/eso"
+  side: left
+
+- title: Bachillerato
+  url: "/bachillerato"
+  side: left
+
 - title: Formación Profesional
   url: "/"
   side: left
