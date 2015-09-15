@@ -9,9 +9,9 @@ title: IES San Andrés
 header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
-    title: "Blog & Portfolio"
-    url: 'http://www.marca.com'
-    text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+    title: "Matriculación"
+    url: 'matriculacion-2015-2016/'
+    text: 'Si has cursado estudios en nuestro Centro o has sido admitido como nuevo alumno, consulta aquí las instrucciones para llevar a cabo la matriculación en nuestro Centro.'
     image: signup.jpg
 widget-2:
     title: "Why use this theme?"
