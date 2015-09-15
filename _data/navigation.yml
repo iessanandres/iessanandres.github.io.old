@@ -35,7 +35,3 @@
 - title: "Buscar"
   url: "/search/"
   side: right
-
-- title: "Contacto"
-  url: "/contact/"
-  side: right
