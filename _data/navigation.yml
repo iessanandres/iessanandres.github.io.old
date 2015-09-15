@@ -31,7 +31,3 @@
     url: "http://admiessanandres.tk/"
   - title: Informática y comunicaciones
     url: "/fpInformatica"
-
-- title: "Buscar"
-  url: "/search/"
-  side: right
