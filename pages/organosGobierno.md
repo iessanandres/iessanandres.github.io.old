@@ -11,7 +11,7 @@ show_meta: false
 * __Directora__: Reyes Revilla Tejerina
 * __Jefe de Estudios__: Ana Melero Zumel
 * __Secretaria__: Mª Ángeles Miguélez López
-* __Jefe de Estudios Adjunta__: Begoña Menendez del Amo
+* __Jefe de Estudios Adjunta__: Concepción Magadán González
 * __Jefe de Estudios Adjunto__: Miguel Bayón Alonso
 
 ## Consejo escolar
