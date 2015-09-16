@@ -17,7 +17,7 @@ show_meta: false
 ## Curso 2015-2016
 
 * [Calendario escolar](http://www.educa.jcyl.es/es/informacion/calendario-escolar-2015-2016)
-* [Aulas de referencia](noticias/aulas-de-referencia-2015-2016/)
+* [Aulas de referencia](/noticias/aulas-de-referencia-2015-2016/)
 * Libros de texto: no hay ningún libro de texto establecido de forma oficial.
 * Proceso de admisión de nuevos alumnos:
   * [Listas definitivas de alumnos admitidos a septiembre de 2015](https://docs.google.com/spreadsheets/d/1ba-rapV5t2tLRvqL5tHyjNk6Ails1agiqfHCUroX1ag/pubhtml)
