@@ -32,3 +32,18 @@ widget-3:
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
+
+
+<div class="row" style="margin-top:50px">
+    <div class="medium-6 columns" style="text-align: center">
+      <a href="http://sanandresies.gnomio.com/">
+        <img src="/imagenes/plataformaMoodle.png" style="width:50%"/>
+      </a>
+    </div><!-- /.medium-6.columns -->
+
+
+    <div class="medium-6 columns">
+      <h2>Aula Virtual Moodle</h2>
+      <p>En el Aula Virtual del IES San Andrés residen los cursos de las asignaturas que tienen contenidos online disponibles para los alumnos, a través de la plataforma Moodle. Estos cursos son un apoyo adicional a las asignaturas presenciales, proporcionando métodos alternativos de acceso a los materiales, de comunicación entre los participantes y de evaluación del progreso de aprendizaje.<br/> <a href="http://sanandresies.gnomio.com/">Acceder</a></p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
