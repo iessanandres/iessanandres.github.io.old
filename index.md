@@ -34,10 +34,10 @@ widget-3:
 </div>
 
 
-<div class="row" style="margin-top:50px">
-    <div class="medium-6 columns" style="text-align: center">
+<div class="row columns" style="margin-top:50px">
+    <div class="medium-6 columns" style="text-align: center; margin-bottom: 20px">
       <a href="http://sanandresies.gnomio.com/">
-        <img src="/imagenes/plataformaMoodle.png" style="width:50%"/>
+        <img src="/imagenes/plataformaMoodle.png" style="width: 48%"/>
       </a>
     </div><!-- /.medium-6.columns -->
 
