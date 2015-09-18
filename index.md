@@ -42,8 +42,21 @@ widget-3:
     </div><!-- /.medium-6.columns -->
 
 
-    <div class="medium-6 columns">
+    <div class="medium-6 columns" style="text-align: center">
       <h2>Aula Virtual Moodle</h2>
       <p>En el Aula Virtual del IES San Andrés residen los cursos de las asignaturas que tienen contenidos online disponibles para los alumnos, a través de la plataforma Moodle. Estos cursos son un apoyo adicional a las asignaturas presenciales, proporcionando métodos alternativos de acceso a los materiales, de comunicación entre los participantes y de evaluación del progreso de aprendizaje.<br/> <a href="http://sanandresies.gnomio.com/">Acceder</a></p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+<div class="row columns" style="margin-top:50px">
+    <div class="medium-6 columns" style="text-align: center">
+      <h2>Erasmus</h2>
+      <p>Desde el año 2009 los alumnos de Formación Profesional de nuestro Centro tienen la posibilidad de realizar el módulo de Formación en Centros de Trabajo (Prácticas FCT) en empresas de estados miembros de la Comunidad Europea gracias a las becas ERASMUS.</p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-6 columns" style="text-align: center; margin-bottom: 20px">
+      <a href="http://sanandresies.gnomio.com/">
+        <img src="/imagenes/erasmuss.jpg" style="width: 100%"/>
+      </a>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
