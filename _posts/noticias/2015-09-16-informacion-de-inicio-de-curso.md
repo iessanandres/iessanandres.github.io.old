@@ -22,3 +22,8 @@ categories:
   * 2º de Bachillerato en el Salón de Actos.
   * 2º de Ciclos Formativos en sus aulas.
 * 15:00 horas: presentación del CFGS de "Administración y Finanzas".
+
+### Miércoles, 23 de septiembre
+
+* 8:35 horas: recepción de los alumnos de 1º CFGS y de 1º CFGMS de la familia de Informática y 1º CFGM de la familia de Administración. A primera hora los alumnos de primer curso serán recibidos en el Salón de Actos. A partir de la segunda hora, clases conforme al horario del grupo.
+* 15:00 horas: recepción de alumnos de 1ºCFGS de la familia de administración en el Salón de Actos por parte de Jefatura de Estudios y Tutores. Posteriormente en su aula serán atendidos por su profesor tutor durante la primera hora. En las siguientes horas se incorporaran a las clases según horario.
