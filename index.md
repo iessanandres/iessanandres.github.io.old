@@ -60,3 +60,17 @@ widget-3:
       </a>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
+
+<div class="row columns" style="margin-top:50px">
+    <div class="medium-6 columns" style="text-align: center; margin-bottom: 20px">
+      <a href="https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1442831791&rver=6.0.5276.0&wp=MCMBI&wlcxt=msdn%24msdn%24msdn&wreply=https%3a%2f%2fmsdn.microsoft.com%2fes-es%2fsubscriptions%2fmanage%2fhh442900&lc=1033&id=254354&mkt=en-US">
+        <img src="/imagenes/Microsoft.png" style="width: 60%"/>
+      </a>
+    </div><!-- /.medium-6.columns -->
+
+
+    <div class="medium-6 columns" style="text-align: center">
+      <h2>Suscripción MSDN</h2>
+      <p>Nuestro centro cuenta con una soscripción MSDN que permite a profesores y alumnos el acceso a una amplia colección de software de Microsoft, además de herramientas, kits de desarrollo y otros recursos.<br/> <a href="https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1442831791&rver=6.0.5276.0&wp=MCMBI&wlcxt=msdn%24msdn%24msdn&wreply=https%3a%2f%2fmsdn.microsoft.com%2fes-es%2fsubscriptions%2fmanage%2fhh442900&lc=1033&id=254354&mkt=en-US">Acceder</a></p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
