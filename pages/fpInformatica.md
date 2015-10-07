@@ -26,7 +26,7 @@ show_meta: false
   * [Listas provisionales de alumnos admitidos a julio de 2015](https://drive.google.com/uc?export=download&id=0B4jaZeMGL7HsNnpVQ0VTVWE4VTQ)
 * [Programa Erasmus](/erasmus/)
 * [Normativa sobre el acceso a las FCT](/normativaAccesoFCT/)
-
+* [Horarios de grupos](https://drive.google.com/open?id=0B4jaZeMGL7HsRDZva2dzaThteEE)
 
 ## Curso 2014-2015
 
