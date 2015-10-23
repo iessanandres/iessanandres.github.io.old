@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: page
 subheadline: Noticias
 meta_teaser: Excursión organizada por el Departamento de Geografía e Historia para los chicos de 2º de Bachillerato a Burgos y Herrera de Pisuerga.
@@ -8,6 +8,7 @@ header: "no"
 categories: 
   - noticias
 ---
+
 
 
 En el siguiente enlace puedes ver las fotos de la excursión en tiempo real:
