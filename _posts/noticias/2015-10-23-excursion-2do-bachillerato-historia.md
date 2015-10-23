@@ -1,6 +1,7 @@
 ---
 published: true
 layout: page
+title: "Excursión de 2º de Bachillerato a Burgos"
 subheadline: Noticias
 meta_teaser: Excursión organizada por el Departamento de Geografía e Historia para los chicos de 2º de Bachillerato a Burgos y Herrera de Pisuerga.
 teaser: Excursión organizada por el Departamento de Geografía e Historia para los chicos de 2º de Bachillerato a Burgos y Herrera de Pisuerga.
