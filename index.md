@@ -33,6 +33,19 @@ widget-3:
   <a class="close-reveal-modal">&#215;</a>
 </div>
 
+<div class="row columns" style="margin-top:50px">
+    <div class="medium-6 columns" style="text-align: center">
+      <h2>Twitter</h2>
+      <p>Desde el curso 2010/2011 nuestro Centro está presente en Twitter, una de las redes sociales más importante de Internet. Síguenos (@iessanandres) para conocer en tiempo real toda la actualidad de nuestro Instituto.<br/> <a href="https://twitter.com/iessanandres">Acceder</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-6 columns" style="text-align: center; margin-bottom: 20px">
+      <a href="https://twitter.com/iessanandres">
+        <img src="/imagenes/twitter.png" style="width: 80%"/>
+      </a>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
 
 <div class="row columns" style="margin-top:50px">
     <div class="medium-6 columns" style="text-align: center; margin-bottom: 20px">
