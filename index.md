@@ -64,11 +64,11 @@ widget-3:
 <div class="row columns" style="margin-top:50px">
     <div class="medium-6 columns" style="text-align: center">
       <h2>Erasmus</h2>
-      <p>Desde el año 2009 los alumnos de Formación Profesional de nuestro Centro tienen la posibilidad de realizar el módulo de Formación en Centros de Trabajo (Prácticas FCT) en empresas de estados miembros de la Comunidad Europea gracias a las becas ERASMUS.</p>
+      <p>Desde el año 2009 los alumnos de Formación Profesional de nuestro Centro tienen la posibilidad de realizar el módulo de Formación en Centros de Trabajo (Prácticas FCT) en empresas de estados miembros de la Comunidad Europea gracias a las becas ERASMUS. <br/> <a href="/erasmus/">Más información</a></p></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns" style="text-align: center; margin-bottom: 20px">
-      <a href="http://sanandresies.gnomio.com/">
+      <a href="/erasmus/">
         <img src="/imagenes/erasmuss.jpg" style="width: 100%"/>
       </a>
     </div><!-- /.medium-6.columns -->

@@ -2,7 +2,11 @@
 layout: page
 permalink: "/erasmus/"
 title:  "Programa Erasmus"
-header: no
+header:
+    image:  "erasmusFlag.jpg"
+    pattern:  "pattern_concrete.jpg"
+    caption:
+    caption_url:
 show_meta: false
 ---
 
