@@ -9,10 +9,10 @@ title: IES San Andrés
 header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
-    title: "Matriculación"
-    url: 'matriculacion-2015-2016/'
-    text: 'Si has cursado estudios en nuestro Centro o has sido admitido como nuevo alumno, consulta aquí las instrucciones para llevar a cabo la matriculación en nuestro Centro.'
-    image: signup.jpg
+    title: "¡Pásate por la biblioteca!"
+    url: 'biblioteca/'
+    text: 'En la biblioteca de nuestro Centro podrás encontrar multitud de libros para leer, lecturas recomendadas y mucho más. ¡Pásate por la biblioteca!'
+    image: biblioteca2.jpg
 widget-2:
     title: "Programa Releo"
     url: 'releo'
