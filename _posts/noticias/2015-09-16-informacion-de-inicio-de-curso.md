@@ -1,9 +1,6 @@
 ---
 layout: page
 title: "Inicio del curso 2015-2016"
-subheadline: "Noticias"
-meta_teaser: "Listados definitivos de alumnos admitidos en Ciclos Formativos para el curso 2015-2016 en el período extraordinario."
-teaser: "Consulta la información, el calendario y los horarios relativos al inicio del curso 2015-2016."
 header: no
 categories:
     - noticias

@@ -1,9 +1,6 @@
 ---
 layout: page
 title: "Aulas de referencia 2015-2016"
-subheadline: "Noticias"
-meta_teaser: "Consulta qué aula tiene asignada cada grupo para el curso 2015-2016."
-teaser: "Consulta qué aula tiene asignada cada grupo para el curso 2015-2016."
 header: no
 categories:
     - noticias

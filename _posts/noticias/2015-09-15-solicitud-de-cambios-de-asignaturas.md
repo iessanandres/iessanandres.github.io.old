@@ -1,9 +1,6 @@
 ---
 layout: page
 title: "Solicitud de cambios de materias"
-subheadline: "Noticias"
-meta_teaser: "Formulario de solicitud de cambios de materias por parte del alumnado (hasta el viernes 25 de septiembre)."
-teaser: "Formulario de solicitud de cambios de materias por parte del alumnado (hasta el viernes 25 de septiembre)."
 header: no
 categories:
     - noticias

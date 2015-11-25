@@ -1,9 +1,6 @@
 ---
 layout: page
 title: "Información sobre 2º de Bachillerato"
-subheadline: "Noticias"
-meta_teaser: "Resumen de lo explicado el primer día de curso sobre varios aspectos de 2º de Bachillerato: estructura del curso, asistencia, derecho a huelga, calendario de exámenes, título, PAEU y tasas a pagar."
-teaser: "Resumen de lo explicado el primer día de curso sobre varios aspectos de 2º de Bachillerato: estructura del curso, asistencia, derecho a huelga, calendario de exámenes, título, PAEU y tasas a pagar"
 header: no
 categories:
     - noticias

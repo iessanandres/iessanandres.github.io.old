@@ -1,9 +1,6 @@
 ---
 layout: page
 title: "Huelga de estudiantes del 22 de octubre"
-subheadline: "Noticias"
-meta_teaser: "Información acerca de la Huelga de estudiantes convocada para el 22 de octubre."
-teaser: "Información acerca de la Huelga de estudiantes convocada para el 22 de octubre."
 header: no
 categories:
     - noticias

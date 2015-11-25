@@ -2,9 +2,6 @@
 published: true
 layout: page
 title: "Calendario de exámenes de la 1ª evaluación en 2º de Bachillerato"
-subheadline: Noticias
-meta_teaser: Consulta el calendario de exámenes de 2º de Bachillerato para la 1ª evaluación del curso 2015-2016.
-teaser: Consulta el calendario de exámenes de 2º de Bachillerato para la 1ª evaluación del curso 2015-2016.
 header: "no"
 categories:
   - noticias
