@@ -2,9 +2,6 @@
 published: true
 layout: page
 title: "Día Internacional contra la Violencia de Género"
-subheadline: Noticias
-meta_teaser: Celebramos con los alumnos el Día Internacional contra la Violencia de Género.
-teaser: Celebramos con los alumnos el Día Internacional contra la Violencia de Género.
 image:
     thumb:  homepage_typography_thumb.jpg
     homepage: "25n.jpg"
@@ -15,7 +12,7 @@ header:
     caption: Ver más fotos
     caption_url: "https://goo.gl/photos/iU4Hq8y65UMKucPB6"
 categories:
-  - noticias
+  - Noticias
 ---
 
 
