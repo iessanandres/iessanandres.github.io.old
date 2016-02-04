@@ -40,13 +40,48 @@ format: blog-index
      </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
+
+<div class="row t60 iconos-iniciales-frontal">
+
+  <a href="/admision2016_2017/">
+    <div class="medium-3 columns" style="text-align: center; margin-bottom: 20px">
+      <i class="fa fa-user-plus  fa-3x"></i>
+      <p class="enlace-icono-frontal">Proceso de admisión del alumnado para el curso 2016/2017</p>
+    </div>
+  </a><!-- /.medium-6.columns -->
+
+    <a href="/revistaRIES/">
+      <div class="medium-3 columns" style="text-align: center; margin-bottom: 20px">
+        <i class="fa fa-files-o  fa-3x"></i>
+        <p class="enlace-icono-frontal">Revista RIES</p>
+      </div>
+    </a><!-- /.medium-6.columns -->
+
+    <a href="/ubicacion/">
+      <div class="medium-3 columns" style="text-align: center; margin-bottom: 20px">
+        <i class="fa fa-map  fa-3x"></i>
+        <p class="enlace-icono-frontal">Ubicación y contacto</p>
+      </div>
+    </a><!-- /.medium-6.columns -->
+
+    <a href="/departamentosYProfesorado/">
+      <div class="medium-3 columns" style="text-align: center; margin-bottom: 20px">
+        <i class="fa fa-university  fa-3x"></i>
+        <p class="enlace-icono-frontal">Departamentos y profesorado</p>
+      </div>
+    </a><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+
+
+
 {% comment %}
 *
 * First check, if widget is empty or not by checking if there is a title
 *
 {% endcomment %}
 
-<div class="row t60">
+<div class="row">
     {% if page.widget-1.title %}
     <div class="medium-4 columns">
         <a href="{% if page.widget-1.url contains 'http' %}{{ page.widget-1.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ page.widget-1.url }}{% endif %}">{% if page.widget-1.image %}<img src="{{ site.urlimg }}/{{ page.widget-1.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-1.video %}{{ page.widget-1.video }}{% endif %}</a>
