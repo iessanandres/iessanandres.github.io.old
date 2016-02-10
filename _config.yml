@@ -222,3 +222,32 @@ google_analytics_tracking_id: UA-60112281-1
 # used in _includes/footer_scripts.html
 
 # tawkto_embed_uri:
+
+
+
+prose:
+  rooturl: ''
+  siteurl: 'http://iessanandres.com'
+  media: 'imagenes'
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          label: "layout"
+          element: "text"
+          value: "page"
+      - name: "date"
+        field:
+          label: "date"
+          element: "text"
+          value: "CURRENT_DATETIME"
+      - name: "categories"
+        field:
+          label: "categories"
+          element: "text"
+          value: "Noticias"
+      - name: "header"
+        field:
+          label: "header"
+          element: "text"
+          value: "no"
