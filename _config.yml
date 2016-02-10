@@ -231,6 +231,10 @@ prose:
   media: 'imagenes'
   metadata:
     _posts:
+      - name: "title"
+        field:
+          label: "title"
+          element: "text"
       - name: "layout"
         field:
           label: "layout"
