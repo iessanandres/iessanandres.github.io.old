@@ -6,48 +6,58 @@ header: no
 show_meta: false
 ---
 
-## Administración y Gestión
+## Curso 2015-2016
+
+### Administración y Gestión
 
 * __Jefe de Departamento__: [Victor Costas Carrera](http://winfor4.weebly.com/)
 * __Profesorado__:
   * Juan José Sainz-Ezquerra Foces
   * Laureano García Álvarez
-  * Araceli Mayo Serrano
+  * Mª Araceli Mayo Serrano
   * Javier Arranz Sacristán
+  * José Carlos Fernández Montero
+  * Iván Suárez Tomás
+  * María Belén Villarino Fernández
 
 
-## Artes Plásticas
+### Artes Plásticas
 
-* __Jefe de Departamento__: Pablo pérez García
+* __Jefe de Departamento__: Pablo Pérez García
 * __Profesorado__:
   * Inés Conty Sánchez
 
 
-## Ciencias Naturales
+### Ciencias Naturales
 
-* __Jefe de Departamento__: Francisca garcía Prieto
+* __Jefe de Departamento__: Francisca García Prieto
 * __Profesorado__:
   * Reyes Revilla Tejerina
+  * Concepción Magadán González
+  * Mª Iluminada Muñoz Lucas
+  * José Carlos Villasante Díez
 
 
-## Educación Física
+### Educación Física
 
 * __Jefe de Departamento__: Mª Pilar Pérez Rodríguez
+  * Jose María Leceta Aulestia
+  * Manuel Javier Pérez Martínez
 
 
-## Formación y Orientación Laboral
+### Formación y Orientación Laboral
 
-* __Jefe de Departamento__: Vacante
+* __Jefe de Departamento__: Oliva Miguélez Valle
 
 
-## Informática y Comunicaciones
+### Informática y Comunicaciones
 
 * __Jefe de Departamento__: Mª Jesús de la Huerga Mayo
 * __Profesorado__:
   * José Fernando Álvarez Llanos
   * José Martín Carrizo Pérez
   * Juan Ojeado Feijoo
-  * Miguel Ángel Martínez Juan Álvarez
+  * Miguel Ángel Martínez Juan
   * Julita González Álvarez
   * Miguel Bayón Alonso
   * Amadeo Pérez Chico
@@ -56,72 +66,101 @@ show_meta: false
   * Ricardo Prieto Ordás
 
 
-## Filosofía
+### Filosofía
 
-* __Jefe de Departamento__:Marta Fernández Ramírez
+* __Jefe de Departamento__: Marta Fernández Ramírez
+* __Profesorado__:
+  * Rubén Canales García
 
 
-## Física y Química
+### Física y Química
 
 * __Jefe de Departamento__: Juvenal Bernardo Huertas
 * __Profesorado__:
   * Mª Ángeles Miguélez López
 
 
-## Francés
+### Francés
 
 * __Jefe de Departamento__: América Fernández González
+* __Profesorado__:
+  * Natalia Ugidos de la Varga
 
 
-## Geografía e Historia
+### Geografía e Historia
 
 * __Jefe de Departamento__: Juan Francisco Martínez Marcos
 * __Profesorado__:
   * Begoña Inés Menéndez del Amo
-  * Isidoro García Alonso
+  * Isidoro García Alonso (sustituto: Carlos Nistal Sánchez Manrique)
+  * Natalia Acevedo Fernández
+  * Luis Javier Álvarez Álvarez
 
 
-## Inglés
+### Inglés
 
 * __Jefe de Departamento__: Mª Concepción Fernández Andrés
 * __Profesorado__:
   * Mª del Carmen Mesonero Bartolomé
+  * Tomasa Pilar Pastrana Santamarta
+  * Ainhoa González Fernández
+  * Irene Magaz Vara
+  * Juan Luis Pérez Pérez
 
 
-## Lengua y Literatura
+### Latín
+
+* __Jefe de Departamento__: María Jesús Bodelón Astorgano
+
+
+### Lengua y Literatura
 
 * __Jefe de Departamento__: Alicia López Martínez
 * __Profesorado__:
   * [Purificación López Díaz](http://unacasadepalabras.blogspot.com/)
   * Mª Esther Toral Peña
+  * Ana María Álvarez Soto
+  * Beatriz García Álvarez
+  * Clara Elena Prieto Entrialgo
 
 
-## Matemáticas
+### Matemáticas
 
 * __Jefe de Departamento__: Rosa Mª Jiménez García
 * __Profesorado__:
   * Julia de la Torre Grobas
   * Olga Moro González
   * Mª Cruz Rodríguez del Pozo
+  * Ana Isabel Valle Flórez
 
-## Música
+### Música
 
 * __Jefe de Departamento__: Mª Teresa Valbuena Cuesta
 * __Profesorado__:
-  * [Ana Melero Zumel](http://goo.gl/nCENw)
+  * [Ana Mª Melero Zumel](http://goo.gl/nCENw)
+  * Elena María Fernández Delgado
 
 
-## Orientación
+### Orientación
 
 * __Jefe de Departamento__: Mª Jesúz Abril de la Fuente
 * __Profesorado__:
   * Rosa María Garrido Casado
   * Mª Visitación Ferreras Díez
-  * Manuel Ingelmo Tejerina  
+  * Manuel Ángel Ingelmo Tejerina  
+  * María Rodríguez Prieto
+  * Raquel Rodríguez Seoane
+  * Jorge Rojo Blanco
 
 
-## Tecnología
+### Tecnología
 
 * __Jefe de Departamento__: Tomás Tovar Ordóñez
 * __Profesorado__:
   * Jesús Andrés Morala
+
+
+### Religión
+
+* María Victoria de Castro Ciriano (Religión Evangélica)
+* María Estrella París García (Religión Católica)
