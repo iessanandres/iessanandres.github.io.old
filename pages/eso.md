@@ -10,7 +10,7 @@ show_meta: false
 <div class="row t60">
 
     <div class="medium-4 columns" style="text-align: center; margin-bottom: 20px">
-        <img src="/imagenes/FSE.jpg"/>
+        <a href="http://ec.europa.eu/esf/home.jsp?langId=es"><img src="/imagenes/FSE.jpg"/></a>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-4 columns" style="text-align: center; margin-bottom: 20px">
