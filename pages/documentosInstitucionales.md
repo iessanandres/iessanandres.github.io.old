@@ -10,6 +10,7 @@ show_meta: false
 ## Curso 2015-2016
 
 
+### Programación General Anual
 
 * [Programación General Anual](/documentos/pga2015_2016/PGA Curso 2015-2016 IES San Andrés.pdf)
   * [Anexo I. Actividades hora lectiva PAT](/documentos/pga2015_2016/Anexo I. Actividades hora lectiva PAT.pdf)
@@ -26,6 +27,11 @@ show_meta: false
   * [Anexo XII. Plan TIC](/documentos/pga2015_2016/Anexo XII. Plan TIC.html)
   * [Anexo XIII. Programacion de Extraescolares](/documentos/pga2015_2016/Anexo XIII. Programacion de Extraescolares.html)
   * [Anexo XIV. Plan de acogida](/documentos/pga2015_2016/Anexo XIV. Plan de acogida.pdf)
+
+
+### Huelgas
+
+* [Documento de Comunicación de la Participación en la Jornada de Huelga](/documentos/ComunicacionDeLaParticipaciónEnLaJornadaDeHuelga.pdf)
 
 
 
