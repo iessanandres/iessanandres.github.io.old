@@ -75,3 +75,11 @@ article h1 {
 .iconos-iniciales-frontal i {
 	color: #34495e;
 }
+
+a.link-sin-subrayar:hover {
+	border-bottom: none;
+}
+
+.icono-grande-portada:before {
+	font-size: 70px;
+}
