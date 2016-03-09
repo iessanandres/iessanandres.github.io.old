@@ -1,7 +1,8 @@
 ---
 published: true
 layout: page
-title: "Bocadillo solidario (15 de marzo 2016)"
+title: "Bocadillo solidario"
+subheadline: "15 de marzo 2016"
 image:
     thumb:  bocatas.jpg
     homepage: "bocatas.jpg"

@@ -19,4 +19,4 @@ Podéis encontrarlos en el despacho del AMPA (situado al final del pasillo de la
 
 ### Actividades del AMPA
 
-* [15 de marzo: Bocadillo solidario]()
+* [15 de marzo 2016: Bocadillo solidario](/noticias/bocadillo-solidario/)

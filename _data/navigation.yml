@@ -20,6 +20,8 @@
     url: "/biblioteca/"
   - title: "Revista RIES"
     url: "/revistaRIES/"
+  - title: "AMPA"
+    url: "/ampa/"    
   - title: "Intranet"
     url: "https://podio.com/intranetiessanandrescom/intranet-2015-2016"
 
