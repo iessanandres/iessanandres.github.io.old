@@ -1,24 +1,26 @@
 ---
 published: true
 layout: page
-title: "Bocadillo solidario"
+title: "Bocadillo solidario 2016"
 subheadline: "15 de marzo 2016"
 image:
-    thumb:  bocatas.jpg
-    homepage: "bocatas.jpg"
-    caption: Actividad organizada por el AMPA
-    caption_url: "/ampa/"
+    thumb:  bocata2016.jpg
+    homepage: "bocata2016.jpg"
+    caption: Ver más fotos
+    caption_url: "https://goo.gl/photos/svcBXCbzHmjXRfGk9"
 header:
-    image_fullwidth: "bocatas.jpg"
-    caption: Actividad organizada por el AMPA
-    caption_url: /ampa/
+    image_fullwidth: "bocata2016.jpg"
+    caption: Ver más fotos
+    caption_url: "https://goo.gl/photos/svcBXCbzHmjXRfGk9"
 categories:
   - Noticias
 ---
 
 
-Desde el [AMPA](/ampa/) y, en colaboración con el Departamento de Religión, queremos informaros que el martes 15 de marzo a la hora del recreo tendrá lugar, como es habitual todos los años, la actividad "Bocadillo solidario".
+La Asociación de Madres y Padres del IES San Andrés ([AMPA](/ampa/)), en colaboración con el Departamento de Religión, ha desarrollado el martes 15 de marzo a la hora del recreo la actividad "Bocadillo solidario", como viene siendo habitual todos los años.
 
-Recordaros también que podéis pasar a recoger el vale para el bocadillo y la botella de agua, por importe de 2 euros, por el despacho de la asociación o al lado de conserjería de 11:00 a 12:00 horas de la mañana de los días 7, 9, 11 y 14 de marzo.
+* [Ver álbum de fotos](https://goo.gl/photos/svcBXCbzHmjXRfGk9)
 
-Como sabéis, el dinero obtenido irá destinado a una ONG; aunque reconocemos que con los tiempos que corren hay que hacer mucho sacrificios, os agradecemos de antemano vuestra participación y colaboración.
+Los bocadillos y las botellas de agua se entregaron a profesores y alumnos por importe de 2 euros. El dinero obtenido será destinado a una ONG.
+
+> <span class="teaser">Aunque sabemos que en los tiempos que corren hay que hacer mucho sacrificios, os agradecemos muchisimo vuestra participación y colaboración.</span><cite>AMPA del IES San Andrés</cite>
