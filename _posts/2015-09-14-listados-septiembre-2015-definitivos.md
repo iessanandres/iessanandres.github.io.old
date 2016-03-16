@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Admisión definitiva en Formación Profesional (septiembre 2015)"
+title: "Admisión definitiva en Formación Profesional"
+subheadline: "Septiembre 2015"
 header: no
 categories:
     - fp

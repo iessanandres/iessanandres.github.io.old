@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Inicio del curso 2015-2016"
+subheadline: "Septiembre 2015"
 header: no
 categories:
     - noticias

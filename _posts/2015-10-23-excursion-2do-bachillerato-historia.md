@@ -2,6 +2,7 @@
 published: true
 layout: page
 title: "Excursión de 2º de Bachillerato a Burgos"
+subheadline: "23 octubre 2015"
 image:
     thumb:  homepage_typography_thumb.jpg
     homepage: "burgos.jpg"

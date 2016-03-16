@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Huelga de estudiantes del 22 de octubre"
+subheadline: "22 octubre 2015"
 header: no
 categories:
     - noticias

@@ -2,6 +2,7 @@
 published: true
 layout: page
 title: "Día Internacional contra la Violencia de Género"
+subheadline: "25 noviembre 2015"
 image:
     thumb:  homepage_typography_thumb.jpg
     homepage: "25n.jpg"
