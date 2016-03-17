@@ -1,12 +1,18 @@
 ---
 layout: page
 permalink: "/3esolengua20152016/"
-title:  ""
-header: no
+title:  "3º ESO - Lengua Castellana y Literatura"
+subheadline: "Programación Didáctica - Curso 2015-2016"
+header:
+    image_fullwidth: "teaching.jpg"
+    caption: ""
+    caption_url: ""
 show_meta: false
 ---
 
-# Programación Didáctica 0018 3º ESO - LLC - Lengua Castellana y Literatura
+{::options toc_levels="2" /}
+* TOC
+{:toc}
 
 ## Secuencia y temporalización de los contenidos
 
