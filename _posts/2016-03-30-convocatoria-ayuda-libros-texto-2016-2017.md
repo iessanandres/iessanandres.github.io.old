@@ -1,13 +1,8 @@
 ---
-published: false
+published: true
 layout: page
 title: "Convocatoria de ayuda para la adquisición de libros de texto para el curso 2016-2017"
 subheadline: "30 marzo 2016"
-image:
-    thumb: "libros-texto.jpg"
-    homepage: "libros-texto.jpg"
-    caption: ""
-    caption_url: ""
 header:
     image_fullwidth: "libros-texto.jpg"
     caption: ""
@@ -17,10 +12,22 @@ categories:
 ---
 
 
-La Asociación de Madres y Padres del IES San Andrés ([AMPA](/ampa/)), en colaboración con el Departamento de Religión, ha desarrollado el martes 15 de marzo a la hora del recreo la actividad "Bocadillo solidario", como viene siendo habitual todos los años.
+## Modelo de solicitud
 
-* [Ver álbum de fotos](https://goo.gl/photos/svcBXCbzHmjXRfGk9)
+El Centro entregará una __solitud pregrabada__ a cada alumno que ya estuviera escolarizado en el curso anterior en Secundaria en este Instituto.
 
-Los bocadillos y las botellas de agua se entregaron a profesores y alumnos por importe de 2 euros, recaudando un total de 294 euros, que serán destinados a una ONG.
+Toda la información necesaria, así como los impresos para el resto de alumnos los puedes encontrar en el siguiente enlace:
 
-> <span class="teaser">Aunque sabemos que en los tiempos que corren hay que hacer mucho sacrificios, os agradecemos muchisimo vuestra participación y colaboración.</span><cite>AMPA del IES San Andrés</cite>
+[http://www.educa.jcyl.es/es/becas-alumnado/ayudas-adquisicion-libros-texto/ayudas-adquisicion-libros-texto-2016-2017/ayudas-adquisicion-libros-texto-2016-2017-convocatoria]/http://www.educa.jcyl.es/es/becas-alumnado/ayudas-adquisicion-libros-texto/ayudas-adquisicion-libros-texto-2016-2017/ayudas-adquisicion-libros-texto-2016-2017-convocatoria)
+
+La solicitud se presentará en la Oficina del Centro por duplicado una vez firmada por todos los miembros de la familia mayores de edad.
+
+
+## Plazo de presentación
+
+De 1 al 15 de abril de 2016, ambos incluidos.
+
+
+## Obligación de los beneficiarios
+
+Los beneficiarios de estas ayudas se comprometen a entregar los libros sunvencionados, en buen estao, en el Centro deonde estén matriculados en el curso 2016-2017 una vez finalizado el mismo.
