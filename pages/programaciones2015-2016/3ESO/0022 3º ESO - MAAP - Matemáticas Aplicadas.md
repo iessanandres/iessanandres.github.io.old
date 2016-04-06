@@ -28,14 +28,14 @@ BLOQUE 2. Números y álgebra
   2.  Raíces cuadradas.
 -  Raíces no exactas. Expresión decimal.
 -  Expresiones radicales: transformación y operaciones. Jerarquía de operaciones.
-  
+
 Temporalización: tres semanas
 
   3.  Números decimales y racionales.
 -  Transformación de fracciones en decimales y viceversa.
 -  Números decimales exactos y periódicos. Fracción generatriz.
 -  Operaciones con fracciones y decimales. Cálculo aproximado y redondeo. Cifras significativas. Error absoluto y relativo.
-  
+
 Temporalización: cuatro semanas
 
   4.  Investigación de regularidades, relaciones y propiedades que aparecen en conjuntos de números. Expresión usando lenguaje algebraico.
@@ -49,7 +49,7 @@ Temporalización: cuatro semanas
 -  Operaciones elementales con polinomios.
 -  Ecuaciones de primer y segundo grado con una incógnita.
 -  Resolución por el método algebraico y gráfico de ecuaciones de primer y segundo grado.
-  
+
 Temporalización: cuatro semanas
 
   7.  Resolución de ecuaciones sencillas de grado superior a dos.
@@ -72,7 +72,7 @@ BLOQUE 3. Geometría
 -  La esfera. Intersecciones de planos y esferas.
   3.  El globo terráqueo. Coordenadas geográficas y husos horarios. Longitud y latitud de un punto.
   4.  Uso de herramientas tecnológicas para estudiar formas, configuraciones y relaciones geométricas.
-  
+
   Temporalización: cuatro semanas
 
 BLOQUE 4. Funciones
@@ -83,7 +83,7 @@ BLOQUE 4. Funciones
   4.  Utilización de modelos lineales para estudiar situaciones provenientes de los diferentes ámbitos de conocimiento y de la vida cotidiana, mediante la confección de la tabla, la representación gráfica y la obtención de la expresión algebraica.
   5.  Expresiones de la ecuación de la recta.
   6.  Funciones cuadráticas. Representación gráfica. Utilización para representar situaciones de la vida cotidiana.
- 
+
 Temporalización: cinco semanas  
 
 BLOQUE 5. Estadística y probabilidad
@@ -102,7 +102,7 @@ Temporalización: cinco semanas
 -  Cálculo de probabilidades mediante la regla de Laplace.
 -  Diagramas de árbol sencillos.
 -  Utilización de la probabilidad para tomar decisiones fundamentadas en diferentes contextos.
- 
+
 Temporalización: cinco semanas
 
 Repaso general
@@ -242,11 +242,11 @@ Bloque 5. Estadística y probabilidad
 
 Necesitamos entrenar de manera sistemática los procedimientos que conforman el andamiaje de la asignatura. Si bien la finalidad del área es adquirir conocimientos esenciales que se incluyen en el currículo básico, el alumnado deberá desarrollar actitudes conducentes a la reflexión y análisis de los leguajes matemáticos, sus ventajas y las implicaciones en la comprensión de la realidad. Para ello necesitamos un cierto grado de entrenamiento individual y trabajo reflexivo de procedimientos básicos de la asignatura.
 
-En algunos aspectos del área, sobre todo en aquellos que pretenden el uso sistemático de actividades grupales, el trabajo en grupo colaborativo aporta, además del entrenamiento de habilidades sociales básicas y enriquecimiento personal desde la diversidad, una herramienta perfecta para discutir y profundizar en contenidos de ese aspecto. 
+En algunos aspectos del área, sobre todo en aquellos que pretenden el uso sistemático de actividades grupales, el trabajo en grupo colaborativo aporta, además del entrenamiento de habilidades sociales básicas y enriquecimiento personal desde la diversidad, una herramienta perfecta para discutir y profundizar en contenidos de ese aspecto.
 
 Por otro lado, cada alumno parte de unas potencialidades que definen sus inteligencias predominantes, enriquecer las tareas con actividades que se desarrollen desde la teoría de las inteligencias múltiples facilita que todos los alumnos puedan llegar a comprender los contenidos que pretendemos adquirir para el desarrollo de los objetivos de aprendizaje.
 
-En el área de Matemáticas es indispensable la vinculación a contextos reales, así como generar posibilidades de aplicación de los contenidos adquiridos. Para ello, las tareas competenciales facilita este aspecto, que se podría complementar con proyectos de aplicación de los contenidos. 
+En el área de Matemáticas es indispensable la vinculación a contextos reales, así como generar posibilidades de aplicación de los contenidos adquiridos. Para ello, las tareas competenciales facilita este aspecto, que se podría complementar con proyectos de aplicación de los contenidos.
 
 
 ####Perfil de cada una de las competencias de acuerdo con lo establecido en la Orden ECD/65/2015, de 21 de enero
@@ -254,12 +254,12 @@ En el área de Matemáticas es indispensable la vinculación a contextos reales,
 En el área de Matemáticas incidiremos en el entrenamiento de todas las competencias de manera sistemática haciendo hincapié en los descriptores más afines  a ella.
 
 Competencia matemática y competencias básicas en ciencia y tecnología
-Esta área posibilita en todos y cada uno de sus aspectos la competencia matemática, a partir del conocimiento de los contenidos y su variedad de procedimientos de cálculo, análisis, medida y estimación de la realidad que envuelve a los alumnos como instrumento imprescindible en el desarrollo del pensamiento de los alumnos y componente esencial de comprensión. 
+Esta área posibilita en todos y cada uno de sus aspectos la competencia matemática, a partir del conocimiento de los contenidos y su variedad de procedimientos de cálculo, análisis, medida y estimación de la realidad que envuelve a los alumnos como instrumento imprescindible en el desarrollo del pensamiento de los alumnos y componente esencial de comprensión.
 
-Los descriptores que trabajaremos fundamentalmente serán: 
+Los descriptores que trabajaremos fundamentalmente serán:
 
-•  Comprometerse con el uso responsable de los recursos naturales para promover un desarrollo sostenible. 
-•  Reconocer la importancia de la ciencia en nuestra vida cotidiana. 
+•  Comprometerse con el uso responsable de los recursos naturales para promover un desarrollo sostenible.
+•  Reconocer la importancia de la ciencia en nuestra vida cotidiana.
 •  Manejar los conocimientos sobre ciencia y tecnología para solucionar problemas, comprender lo que ocurre a nuestro alrededor y responder a preguntas.
 •  Conocer y utilizar los elementos matemáticos básicos: operaciones, magnitudes, porcentajes, proporciones, formas geométricas, criterios de medición y codificación numérica, etc.
 •  Aplicar estrategias de resolución de problemas a situaciones de la vida cotidiana.
@@ -267,7 +267,7 @@ Los descriptores que trabajaremos fundamentalmente serán:
 
 Comunicación lingüística
 Para fomentar su desarrollo desde el área de Matemáticas se debe insistir en  la incorporación de lo esencial del lenguaje matemático a la expresión habitual y la adecuada precisión en su uso y por otra parte en que los contenidos asociados a la descripción verbal de los razonamientos y de los procesos.
-Para ello, en cada unidad didáctica, entrenaremos al menos un descriptor de cada uno de estos indicadores. 
+Para ello, en cada unidad didáctica, entrenaremos al menos un descriptor de cada uno de estos indicadores.
 
 Los descriptores que priorizaremos serán:
 •  Comprender el sentido de los textos escritos y orales.
@@ -276,9 +276,9 @@ Los descriptores que priorizaremos serán:
 
 En caso de centros bilingües o plurilingües que impartan la asignatura en otra lengua:
 •  Mantener conversaciones en otras lenguas sobre temas cotidianos en distintos contextos.
-•  Producir textos escritos de diversa complejidad para su uso en situaciones cotidianas o de asignaturas diversas. 
+•  Producir textos escritos de diversa complejidad para su uso en situaciones cotidianas o de asignaturas diversas.
 
-Competencia digital 
+Competencia digital
 La lectura y creación de gráficas, la organización de la información en forma analítica y comparativa, la modelización de la realidad, la introducción al lenguaje gráfico y estadístico, el uso de calculadoras y herramientas tecnológicas y otros procesos matemáticos contribuyen al desarrollo de esta competencia.
 
 Para ello, en esta área, trabajaremos los siguientes descriptores de la competencia:
@@ -287,39 +287,39 @@ Para ello, en esta área, trabajaremos los siguientes descriptores de la compete
 •  Utilizar los distintos canales de comunicación audiovisual para transmitir informaciones diversas.
 •  Manejar herramientas digitales para la construcción de conocimiento.
 •  Aplicar criterios éticos en el uso de las tecnologías.
-•  Actualizar el uso de las nuevas tecnologías para mejorar el trabajo y facilitar la vida diaria. 
+•  Actualizar el uso de las nuevas tecnologías para mejorar el trabajo y facilitar la vida diaria.
 
 Conciencia y expresiones culturales
 La aportación matemática se hace presente en multitud de producciones artísticas, así como sus estrategias y procesos mentales fomentan la conciencia y expresión cultural de las sociedades. Igualmente el alumno, mediante el trabajo matemático podrá comprender diversas manifestaciones artísticas siendo capaz de utilizar sus conocimientos matemáticos en la creación de sus propias obras.
 
-Por lo que en esta área, trabajaremos los siguientes descriptores: 
+Por lo que en esta área, trabajaremos los siguientes descriptores:
 •  Mostrar respeto hacia el patrimonio cultural mundial en sus distintas vertientes (artístico-literaria, etnográfica, científico-técnica…), y hacia las personas que han contribuido a su desarrollo.
 •  Apreciar la belleza de las expresiones artísticas y las manifestaciones de creatividad y gusto por la estética en el ámbito cotidiano.
-•  Valorar la interculturalidad como una fuente de riqueza personal y cultural. 
-•  Expresar sentimientos y emociones desde códigos artísticos. 
+•  Valorar la interculturalidad como una fuente de riqueza personal y cultural.
+•  Expresar sentimientos y emociones desde códigos artísticos.
 •  Elaborar trabajos y presentaciones con sentido estético.
 
 Competencias sociales y cívicas
 La utilización de estrategias personales de cálculo y de resolución de problemas facilita aceptar otros puntos de vista, lo que es indispensable a la hora de realizar un trabajo cooperativo y en equipo. Reconocer y valorar las aportaciones ajenas, enriquece al alumno.
 
-Para ello entrenaremos los siguientes descriptores: 
-•  Desarrollar capacidad de diálogo con los demás en situaciones de convivencia y trabajo, y para la resolución de conflictos. 
-•  Reconocer riqueza en la diversidad de opiniones e ideas. 
+Para ello entrenaremos los siguientes descriptores:
+•  Desarrollar capacidad de diálogo con los demás en situaciones de convivencia y trabajo, y para la resolución de conflictos.
+•  Reconocer riqueza en la diversidad de opiniones e ideas.
 •  Concebir una escala de valores propia y actuar conforme a ella.
 •  Aprender a comportarse desde el conocimiento de los distintos valores.
-•  Involucrarse o promover acciones con un fin social. 
+•  Involucrarse o promover acciones con un fin social.
 
 
-Sentido de iniciativa y espíritu emprendedor 
+Sentido de iniciativa y espíritu emprendedor
 Las estrategias matemáticas como la resolución de problemas, que incluyen la planificación, la gestión del tiempo y de los recursos, la valoración de los resultados y la argumentación para  defender el proceso y los resultados, ayudan al desarrollo de esta competencia. Esta ayuda será mayor en la medida en que se fomente actitudes de confianza y de autonomía en la resolución de situaciones abiertas y problemas relacionados con la realidad concreta que vive el alumno.
 
 Los descriptores que entrenaremos son:  
 •  Optimizar recursos personales apoyándose en las fortalezas propias.
-•  Asumir las responsabilidades encomendadas y dar cuenta de ellas. 
+•  Asumir las responsabilidades encomendadas y dar cuenta de ellas.
 •  Gestionar el trabajo del grupo, coordinando tareas y tiempos.
-•  Dirimir la necesidad de ayuda en función de la dificultad de la tarea. 
+•  Dirimir la necesidad de ayuda en función de la dificultad de la tarea.
 •  Encontrar posibilidades en el entorno que otros no aprecian.
-•  Asumir riesgos en el desarrollo de las tareas o los proyectos. 
+•  Asumir riesgos en el desarrollo de las tareas o los proyectos.
 •  Actuar con responsabilidad social y sentido ético en el trabajo.
 
 Aprender a aprender
@@ -327,9 +327,9 @@ La autonomía en la resolución de problemas en Matemáticas, junto con la verba
 Para el desarrollo de la competencia de aprender a aprender es también necesario incidir desde el área en los contenidos relacionados con la autonomía, la perseverancia, la sistematización, la mirada crítica y la habilidad para comunicar con eficacia los resultados del propio trabajo.
 
 Los descriptores que entrenaremos con los alumnos serán los siguientes:
-•  Identificar potencialidades personales como aprendiz: estilos de aprendizaje, inteligencias múltiples, funciones ejecutivas… 
-•  Generar estrategias para aprender en distintos contextos de aprendizaje. 
-•  Desarrollar estrategias que favorezcan la comprensión rigurosa de los contenidos. 
+•  Identificar potencialidades personales como aprendiz: estilos de aprendizaje, inteligencias múltiples, funciones ejecutivas…
+•  Generar estrategias para aprender en distintos contextos de aprendizaje.
+•  Desarrollar estrategias que favorezcan la comprensión rigurosa de los contenidos.
 •  Aplicar estrategias para la mejora del pensamiento creativo, crítico, emocional, interdependiente…
 •  Planificar los recursos necesarios y los pasos que se  han de realizar en el proceso de aprendizaje.
 •  Seguir los pasos establecidos y tomar decisiones sobre los siguientes en función de los resultados intermedios.
@@ -340,7 +340,7 @@ Los descriptores que entrenaremos con los alumnos serán los siguientes:
 
 Se fomentará el desarrollo de la igualdad efectiva entre hombres y mujeres, la prevención de la violencia de género o contra personas con discapacidad y los valores inherentes al principio de igualdad de trato y no discriminación por cualquier condición o circunstancia personal o social.
 Se fomentará el aprendizaje de la prevención y resolución pacífica de conflictos así como de los valores que sustentan la libertad, la justicia, la igualdad, el pluralismo político, la paz, la democracia, el respeto a los derechos humanos, el respeto a los hombre y mujeres por igual, a las personas con discapacidad y el rechazo a la violencia terrorista, la pluralidad, el respeto al Estado de derecho, el respeto y consideración a las víctimas del terrorismo y la prevención del terrorismo y de cualquier tipo de violencia.
-Se incorporarán elementos curriculares relacionados con el desarrollo sostenible. 
+Se incorporarán elementos curriculares relacionados con el desarrollo sostenible.
 Se incorporarán elementos curriculares orientados al desarrollo y afianzamiento del espíritu emprendedor, a la adquisición de competencias para la creación y desarrollo de los diversos modelos de empresas y al fomento de la igualdad de oportunidades y del respeto al emprendedor y al empresario, así como a la ética empresarial.
 Bajo este epígrafe queremos dejar constancia de las actuaciones encaminadas a fomentar la cultura del esfuerzo y poner en valor la autonomía personal.
 A la hora de emprender cualquier tipo de tarea, en este momento las académicas y más adelante las del mundo laboral, es necesario potenciar la responsabilidad, la creatividad y la autonomía para resolverlas de la mejor manera posible dentro de nuestras posibilidades.
@@ -355,7 +355,7 @@ El Departamento participará con entusiasmo en el plan del Centro “San Andrés
 - La materia de Matemáticas Aplicadas utiliza una terminología formal que permitirá al alumnado incorporar este lenguaje a su vocabulario, y utilizarlo en los momentos adecuados con la suficiente propiedad. Asimismo, la comunicación de los resultados de las actividades y/o problemas y otros trabajos que realicen favorece el hábito de la lectura y la capacidad de expresarse correctamente en público y por escrito.
 
 - Los alumnos leerán todos los días partes del libro de texto: historia de las matemáticas, curiosidades, teoría con sus definiciones y explicaciones, problemas con enunciado,... A continuación se comentarán y explicarán sus significados, interpretaciones,...facilitando la comprensión y comunicación de la lengua española y del lenguaje matemático.
-- 
+-
 - También se harán lecturas de páginas Web con temas y actividades diferentes a las habituales en el aula, pero relacionadas con el currículo. La finalidad es reforzar la comprensión escrita en la red global, familiarizarse con los modelos matemáticos que subyacen en contextos variados.
 
 ####Estrategias e instrumentos para la evaluación de los aprendizajes del alumnado y criterios de calificación. Variedad de instrumentos de calificación, incluyendo las pruebas orales con el correspondiente reflejo en la calificación
@@ -365,7 +365,7 @@ Tanto las notas de exámenes escritos, como las observaciones que justifican las
 I)   CRITERIOS DE CALIFICACIÓN DE EVALUACIÓN ORDINARIA .
 1)	Baremación:
 • Se realizarán como mínimo 2 pruebas escritas por evaluación. La última comprende todos los temas tratados en esa evaluación y su puntuación pondera el doble de las otras pruebas. Esta nota será el 70% (es decir un máximo de 7 puntos)  de la calificación- evaluación.
-• Hasta el  20% de la nota (es decir un máximo de 2 puntos) corresponderá: 
+• Hasta el  20% de la nota (es decir un máximo de 2 puntos) corresponderá:
 -	realización de tareas ordenadas, completas, bien presentadas y sin faltas de ortografía en el cuaderno, tanto en clase como en casa.
 -	salidas al encerado (obligatorias y voluntarias), exposiciones orales, trabajos en grupo, trabajos voluntarios…o participación constructiva en el desarrollo de los temas y la clase.
 •   Hasta el 10% (es decir un máximo de 1 punto)   corresponde a la actitud y el comportamiento.
@@ -375,7 +375,7 @@ I)   CRITERIOS DE CALIFICACIÓN DE EVALUACIÓN ORDINARIA .
 	c) Todos los alumnos se pueden presentar a las recuperaciones. El máximo para los que hayan suspendido la evaluación será 5, y los que la hayan aprobado podrán mejorar su nota.
 
 II) CRITERIOS DE CALIFICACIÓN DE EVALUACIÓN EXTRAORDINARIA (SEPTIEMBRE) .
-Se considerará una única prueba referida a los contenidos programados para el curso 
+Se considerará una única prueba referida a los contenidos programados para el curso
 
 ####Actividades de recuperación de los alumnos con materias pendientes de cursos anteriores
 
@@ -418,7 +418,7 @@ Como actividades de consolidación sugerimos:
 •  El libro del alumnado para el área de Matemáticas orientadas a las Enseñanzas Aplicadas 3.º.
 •  La propuesta didáctica para Matemáticas orientadas a las Enseñanzas Aplicadas 3.º.
 •  Los recursos fotocopiables de la propuesta didáctica, con actividades de refuerzo, de ampliación y de evaluación.
-•  Los cuadernos complementarios al libro del alumnado. 
+•  Los cuadernos complementarios al libro del alumnado.
 •  El libro digital.
 •  La web del profesorado.
 •  La web del alumnado y de la familia.
@@ -452,7 +452,7 @@ En cuanto al «formato» de las actividades, se pueden utilizar las siguientes:
 -	Actividades orales.
 -	Rúbricas.
 -	Pruebas objetivas tipo test.
--	Pruebas objetivas escritas: cuestiones en las que hay que justificar las respuestas o/y resolución de ejercicios y problemas. 
+-	Pruebas objetivas escritas: cuestiones en las que hay que justificar las respuestas o/y resolución de ejercicios y problemas.
 -	Trabajos de investigación, cuaderno de clase, rúbricas, dianas, etc.
 
 Cada instrumento de evaluación debe tener distinto peso a la hora de la calificación final, para lo que habrá que valorar de dichos instrumentos su fiabilidad, objetividad, representatividad, su adecuación al contexto del alumnado, etc.
@@ -471,7 +471,7 @@ Al final del curso, resumiremos las conclusiones de esas evaluaciones, valorando
     En el presente curso, tenemos asignada un Aula-Taller-Mates, en el mismo pasillo que se ubica el despacho del Departamento.
     Disponemos en el Departamento de un ordenador portátil con la posibilidad de utilizarlo en el aula.
     Una impresora multifuncional (imprimir, fotocopiar y escanear) que nos permite obtener algunos documentos útiles para el aula y para elaborar otros para el propio Departamento.
-   También tenemos un ordenador de sobremesa con buenas prestaciones. En octubre de 2011 se ha trasladado al aula 215, ya que nos habían instalado una PDI eBean y un cañón-proyector, y de esta forma podríamos optimizar digitalmente este Aula-Taller. 
+   También tenemos un ordenador de sobremesa con buenas prestaciones. En octubre de 2011 se ha trasladado al aula 215, ya que nos habían instalado una PDI eBean y un cañón-proyector, y de esta forma podríamos optimizar digitalmente este Aula-Taller.
    Hemos aumentado la dotación con ocho miniordenadores depositados en el Aula de Matemáticas  para que los alumnos refuercen la competencia digital y sus consecuentes beneficios  en la mejora del aprendizaje y la motivación.
     Se programan actividades de refuerzo y ampliación relacionados con los contenidos del currículo para algunos grupos en las dos aulas generales de Informática: A-210 y A-211 y en el aula específica de Matemáticas A- 215.
     Todos los profesores de Matemáticas utilizarán los recursos informáticos más acordes al nivel, y con mayor o menor frecuencia.
@@ -479,6 +479,6 @@ Al final del curso, resumiremos las conclusiones de esas evaluaciones, valorando
 
 #####Contribución de los métodos didácticos y pedagógicos a la mejora del clima de aula y de centro
 
-Se ha constatado suficientemente la diversidad de intereses, motivaciones, capacidades y estilos de los estudiantes. Hay estudiantes reflexivos y estudiantes impulsivos ; estudiantes analíticos y estudiantes sintéticos; unos trabajan durante períodos largos y otros necesitan descansos; algunos necesitan ser reforzados continuamente y otros no; los hay que prefieren trabajar solos y los hay que prefieren trabajar en pequeño o gran grupo. 
+Se ha constatado suficientemente la diversidad de intereses, motivaciones, capacidades y estilos de los estudiantes. Hay estudiantes reflexivos y estudiantes impulsivos ; estudiantes analíticos y estudiantes sintéticos; unos trabajan durante períodos largos y otros necesitan descansos; algunos necesitan ser reforzados continuamente y otros no; los hay que prefieren trabajar solos y los hay que prefieren trabajar en pequeño o gran grupo.
 La materia de Matemáticas permite mejorar a cada uno de ellos afianzando la seguridad que deben tener en sí mismos para crecer como personas, pues cada problema resuelto, bien sea en equipo o en soledad, mejora el concepto que cada estudiante tiene de él y de sus compañeros. Cada pequeño exito compartido en el aula es mayor y las controversias y debates generadas aumentan sus buenas relaciones.
 Tanto la metodología como la pedagogía empleada fomenta el buen clima del aula a través de la argumentación y búsqueda de falacias empleadas por el alumnado y el profesorado.
