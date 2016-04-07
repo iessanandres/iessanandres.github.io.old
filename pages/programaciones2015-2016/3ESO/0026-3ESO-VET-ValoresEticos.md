@@ -363,7 +363,7 @@ Se tratarán temas de las siguientes asignaturas:
 En la asignatura de Valores éticos será fundamental las lecturas de textos Éticos y políticos, y de actualidad.Se fomenta la comprensión lectora en la búsqueda de información por parte del alumnado y en sus diferentes trabajos y composiciones. Los textos tendrán que motivar al alumno y conectar con su realidad.
 
 
-## Estrategias e instrumentos para la evaluación de los aprendizajes del alumnado y criterios de calificación. Variedad de instrumentos de calificación, incluyendo las pruebas orales con el correspondiente reflejo en la calificación
+## Estrategias e instrumentos para la evaluación de los aprendizajes del alumnado y criterios de calificación
 
 En la programación, debe fijarse cómo se va a evaluar al alumnado; es decir, el tipo de instrumentos de evaluación que se van a utilizar.
 

@@ -7,6 +7,10 @@ show_meta: false
 ---
 
 
+{::options toc_levels="2..4" /}
+* TOC
+{:toc}
+
 ## Curso 2015-2016
 
 
@@ -27,6 +31,75 @@ show_meta: false
   * [Anexo XII. Plan TIC](/documentos/pga2015_2016/Anexo XII. Plan TIC.html)
   * [Anexo XIII. Programacion de Extraescolares](/documentos/pga2015_2016/Anexo XIII. Programacion de Extraescolares.html)
   * [Anexo XIV. Plan de acogida](/documentos/pga2015_2016/Anexo XIV. Plan de acogida.pdf)
+
+### Programaciones didácticas LOMCE
+
+#### 1º ESO
+
+- Lengua Castellana y Literatura
+- Inglés
+- Geografía e Historia
+- Matemáticas
+- Biología y Geología
+- Educación Física
+- Educacación Física (Bilingüe)
+- [Valores Éticos](/1esovaloreseticos20152016/)
+- Educación Plástica, Visual y Audiovisual
+- Tecnología
+- Francés
+- Religión Católica
+- Religión Evangélica
+- Conocimiento del Lenguaje
+- Conocimiento de las Matemáticas
+
+
+
+#### 3º ESO
+
+- [Lengua Castellana y Literatura](/3esolengua20152016/)
+- Inglés
+- Geografía e Historia
+- Matemáticas Académicas
+- Matemáticas Aplicadas
+- Biología y Geología
+- Física y Quimica
+- Educación Física
+- [Valores Éticos](/3esovaloreseticos20152016/)
+- Educación Plástica, Visual y Audiovisual
+- Música
+- Tecnología
+- Francés
+- Iniciación Emprendedora y Empresarial
+- Religión Católica
+- Religión Evangélica
+
+
+#### 1º de Bachillerato
+
+- Lengua Castellana y Literatura
+- Inglés 
+- Filosofía
+- Matemáticas Aplicadas CCSS
+- Latín I
+- Economía
+- Griego I
+- Historia del Mundo Contemporaneo
+- Literatura Universal
+- Economía
+- Matemáticas I
+- Biología y Geología
+- Dibujo Técnico I
+- Física y Química
+- Educación Física
+- Anatomía Aplicada
+- Tecnología Industrial I
+- Cultura Científica
+- 2º Leng. Extranjera: Francés
+- Tecnologías de la Información Y de la Comunicación
+- Religión Católica
+
+
+
 
 
 ### Huelgas

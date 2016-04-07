@@ -366,7 +366,7 @@ En la asignatura de Valores éticos será fundamental las lecturas de textos ét
 El alumnado tendrá que buscar información de continuo, lo que desarrollarará su comprensión lectora.
 
 
-## Estrategias e instrumentos para la evaluación de los aprendizajes del alumnado y criterios de calificación. Variedad de instrumentos de calificación, incluyendo las pruebas orales con el correspondiente reflejo en la calificación
+## Estrategias e instrumentos para la evaluación de los aprendizajes del alumnado y criterios de calificación
 
 En la programación, debe fijarse cómo se va a evaluar al alumnado; es decir, el tipo de instrumentos de evaluación que se van a utilizar. Los sistemas de evaluación son múltiples, pero en cualquier caso, en los instrumentos que se diseñen, deberán estar presentes las actividades siguientes:
 
