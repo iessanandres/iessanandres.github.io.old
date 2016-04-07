@@ -78,7 +78,7 @@ show_meta: false
 
 - Lengua Castellana y Literatura
 - Inglés 
-- Filosofía
+- [Filosofía](/1bachfilosofia20152016/)
 - Matemáticas Aplicadas CCSS
 - Latín I
 - Economía
