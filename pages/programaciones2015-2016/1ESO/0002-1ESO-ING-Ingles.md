@@ -1,203 +1,218 @@
-###0002 1º ESO - ING - Inglés
+---
+layout: page
+permalink: "/1esoingles20152016/"
+title:  "1º ESO - Inglés"
+subheadline: "Programación Didáctica - Curso 2015-2016"
+header:
+    image_fullwidth: "teaching.jpg"
+    caption: ""
+    caption_url: ""
+show_meta: false
+---
 
-####Secuencia y temporalización de los contenidos
-
-Los contenidos del libro y del Workbook,  tanto para los grupos bilingües como para el resto, se distribuirán a lo largo de los tres trimestres de la siguiente manera: tres unidades por trimestre, más una de revisión.Tres semanas aproximadamente por cada unidad, adaptándonos al ritmo de los alumnos.
-
-CONTENIDOS
-
-PRIMER TRIMESTRE
-
-UNIDAD 1: At Home
-
-Vocabulary
-Vocabulario relacionado con las partes de una casa y con el mobiliario.
-Identificación de adjetivos descriptivos de lugares.
-Comprensión y expresión oral de diferentes elementos de una casa.
-Advanced Language: breve explicación sobre la formación de nombres compuestos.
-
-Grammar
-Estructura y usos de There is / There are.
-Uso correcto de la gramática que se ha visto a lo largo de la sección a través de distintas actividades.
-
-Listening
-Comprensión oral unos planes sobre una casa.
-Expresión escrita de los datos que se piden relacionados con los planes sobre una casa.
-
-Speaking
-Aplicación del vocabulario y la gramática vistos en la unidad, y puestos en práctica a través de la expresión oral.
-Práctica oral de las descripciones de una casa con el empleo de la gramática y el vocabulario vistos.
-Interacción oral con el compañero/a para describir las respectivas casas utilizando las expresiones dadas.
-
-Reading
-Lectura de una crítica de un libro de misterio para realizar diferentes tipos de ejercicios. 
-False friends destacados en el texto.
-Comprensión de la información clave del texto.
-Identificación en el texto de palabras clave mediante sus definiciones.
-Advanced Language: formación de palabras a través de distintos sufijos para expresar nacionalidades.
-Word Power: ampliación de vocabulario y palabras que se confunden fácilmente.
-
-Grammar
-Cuantificadores y determinantes para expresar cantidades.
-Uso correcto de la gramática que se ha visto a lo largo de la sección a través de distintas actividades.
-Advanced Grammar: uso de some para expresar cantidad.
-
-Speaking
-Aplicación del vocabulario y la gramática vistos en la unidad, y puestos en práctica a través de la expresión oral.
-Práctica oral para describir una habitación con el empleo de la gramática y el vocabulario vistos.
-Interacción oral con el compañero/a para describir una habitación que hay en una fotografía utilizando las expresiones aprendidas.
-Advanced Speaking: uso de expresiones lingüísticas para ganar tiempo mientras se habla.
-
-Skills
-Vocabulary
-Elementos de una casa.
-Comprensión y expresión oral de diferentes elementos que pueden encontrarse en una casa a través de un programa virtual para diseño de interiores.
-Realización de diferentes ejercicios para practicar el vocabulario aprendido.
-
-Listening
-Comprensión oral de una conversación sobre unas compras a través de Internet.
-Realización de varios ejercicios para responder varias preguntas sobre el contenido de la conversación.
-Advanced Language: uso de  How many …? y How much …? para preguntar sobre cantidades.
-
-Focus on Functional Language
-Repaso del lenguaje utilizado para describir habitaciones.
-
-Pronunciation
-Pronunciación correcta de las contracciones de los verbos (ej. There’s, isn’t, aren’t).
-Patrones de acentuación de las palabras en la oración.
-Advanced Pronunciation: breve explicación sobre las palabras en las que recae el acento en la oración.
-
-Speaking
-Interacción oral con el compañero/a para que este sea capaz de hacer un dibujo a partir de la descripción de una habitación utilizando las expresiones dadas.
-Advanced Speaking: preguntas frecuentes para asegurarse de que se está en lo cierto.
-
-Writing
-Getting Ready to Write: análisis de la estructura de los contenidos de un texto descriptivo de una habitación.
-Análisis del lenguaje típico empleado a la hora de describir una habitación: There is / There are, preposiciones de lugar y adjetivos.
-Preparación antes de escribir un texto descriptivo practicando la estructura y el lenguaje típicos mediante la realización de varios ejercicios.
-Writing Task: producción de un texto descriptivo siguiendo los pasos facilitados en el apartado Getting Ready to Write.
-
-Advance Your Language
-Repaso de los contenidos principales de la unidad, mediante la realización de ejercicios que ponen en práctica el vocabulario y la gramática.
-Tip: los determinantes a / an y the.
-
-Geography: Houses Around the World
-Comprensión oral de la información que da una guía de un museo sobre una exposición para contestar una pregunta.
-Comprensión de un texto escrito sobre los diferentes tipos de casas que hay alrededor del mundo dependiendo de las diferentes formas de vida y culturas.
-False friends destacados en el texto.
-Realización de varios ejercicios para practicar el vocabulario clave del texto y demostrar que se han comprendido los contenidos.
-Identificación en el texto de palabras clave mediante sus definiciones.
-Localización en un mapa de los países mencionados en el texto.
-Did You Know?: datos curiosos e interesantes sobre los beduinos.
-Word Power: ampliación de vocabulario y palabras que se confunden fácilmente.
-
-Advance Your Exam Skills
-Lectura y comprensión de señales y carteles presentes en la vida cotidiana para relacionarlos con unas frases.
-Comprensión oral de una conversación entre dos personas hablando sobre una casa de muñecas para elegir la respuesta correcta.
-Práctica oral del lenguaje empleado a la hora de describir una habitación.
-Redacción de un correo electrónico para describir una habitación.
-
-Culture Magazine
-Comprensión oral y escrita de un texto sobre la vida en la Edad Media. 
-TASK: buscar información sobre un castillo medieval y escribir un texto breve sobre el mismo.
-Lectura de varios acontecimientos de la Edad Media para relacionarlos con los conceptos que se dan.
-Did You Know?: datos curiosos sobre la Peste Negra.
-
-UNIDAD 2: Teen Trends
+{::options toc_levels="2" /}
+* TOC
+{:toc}
 
 
-Vocabulary
-Vocabulario relacionado con las actividades de ocio.
-Identificación de actividades en un texto escrito.
-Advance Language: expresiones con el verbo play.
+## Secuencia y temporalización de los contenidos
 
-Grammar
-Expresión de hábitos y actividades: Present Simple. Uso y formación de la afirmativa y la negativa. Expresiones temporales y adverbios de frecuencia.
-Uso correcto de la gramática que se ha visto a lo largo de la sección a través de distintas actividades.
+Los contenidos del libro y del Workbook,  tanto para los grupos bilingües como para el resto, se distribuirán a lo largo de los tres trimestres de la siguiente manera: tres unidades por trimestre, más una de revisión. Tres semanas aproximadamente por cada unidad, adaptándonos al ritmo de los alumnos.
 
-Speaking
-Aplicación del vocabulario y la gramática vistos en la unidad, y puestos en práctica a través de la expresión oral.
-Práctica oral para hablar de actividades con el empleo de la gramática y el vocabulario vistos.
-Interacción oral con el compañero/a para hablar de las actividades que uno realiza en su tiempo de ocio utilizando las expresiones dadas.
-Advanced Speaking uso de expresiones temporales para hablar de la frecuencia con la que algo sucede.
+### Contenidos
 
-Reading
-Lectura de los resultados de una encuesta publicados en una revista con el fin de realizar diferentes tipos de ejercicios. 
-False friends destacados en el texto.
-Comprensión de la información clave del texto.
-Did You Know?: datos curiosos e interesantes sobre los escolares japoneses.
-Identificación en el texto de palabras clave mediante sus definiciones.
-Word Power: ampliación de vocabulario y palabras que se confunden fácilmente.
-
-Grammar
-Expresión de hábitos y actividades: Present Simple. Uso y formación de la interrogativa. 
-Uso correcto de la gramática que se ha visto a lo largo de la sección a través de distintas actividades.
-
-Listening
-Comprensión oral de la descripción de los hábitos de una adolescente.
-Expresión escrita de los datos que se piden relacionados con los hábitos de una adolescente.
-
-Speaking
-Aplicación del vocabulario y la gramática vistos en la unidad, y puestos en práctica a través de la expresión oral.
-Práctica oral para hacer preguntas sobre diferentes temas con el empleo de la gramática y el vocabulario vistos.
-Interacción oral con el compañero/a para hacer y contestar preguntas utilizando las expresiones aprendidas.
-Advanced Speaking: uso de expresiones utilizadas para mostrar sorpresa ante una información.
-
-Skills
-Vocabulary
-Expresiones relacionadas con hábitos y rutinas.
-Comprensión y expresión oral de diferentes hábitos.
-Advanced Language: breve explicación sobre las expresiones más utilizadas para dar la hora.
-Realización de varios ejercicios para practicar el vocabulario aprendido.
-
-Listening
-Comprensión oral de dos mensajes de diferentes adolescentes hablando de sus rutinas para hacer una comparación de las mismas.
-Realización de varios ejercicios para comparar las rutinas de los dos adolescentes.
-
-Focus on Functional Language
-Repaso del lenguaje utilizado para hablar de actividades y rutinas.
-
-Pronunciation
-Pronunciación correcta de las terminaciones -s y -es en la tercera persona del singular: /s/, /z/ e /Iz/.
-Entonación correcta en los diferentes tipos de interrogativas.
-Advanced Pronunciation: uso e identificación de las Yes / No questions y las Wh- questions a partir de la diferente entonación de cada una.
-
-Speaking
-Interacción oral con el compañero/a para realizar una encuesta utilizando las expresiones dadas.
-Presentación oral en clase de los resultados de las encuestas.
-
-Writing
-Getting Ready to Write: análisis de la estructura de los contenidos de un correo electrónico para presentarse a sí mismo/a.
-Análisis del lenguaje típico empleado a la hora de describirse a uno/a mismo/a: to be y have got para dar información personal, el Present Simple para hablar de los hábitos diarios y actividades, y preposiciones de tiempo para contextualizar la información anterior.
-Preparación antes de escribir un texto de presentación personal practicando la estructura y el lenguaje típicos mediante la realización de varios ejercicios.
-Writing Task: producción de un correo electrónico para presentarse a sí mismo/a siguiendo los pasos facilitados en el apartado Getting Ready to Write.
-
-Advance Your Language
-Repaso de los contenidos principales de la unidad, mediante la realización de ejercicios que ponen en práctica el vocabulario y la gramática.
-Tip: los pronombres personales sujeto y los pronombres y adjetivos posesivos.
-
-Social Science: Take a Break!
-Comprensión oral y escrita de un artículo sobre los beneficios de los descansos entre clases y los recreos en los centros educativos con el fin de contestar preguntas.
-False friends destacados en el texto.
-Realización de varios ejercicios para practicar el vocabulario clave del texto y demostrar que se han comprendido los contenidos.
-Did You Know?: datos curiosos e interesantes sobre el tiempo de descanso entre clases en los centros educativos de Finlandia.
-Word Power: ampliación de vocabulario y palabras que se confunden fácilmente.
-
-Advance Your Exam Skills
-Lectura de un anuncio en la página web de una tienda de informática y un correo electrónico para completar una ficha.
-Comprensión oral de cinco conversaciones sobre hábitos y rutinas para elegir la respuesta correcta.
-Práctica oral del lenguaje empleado a la hora de realizar una encuesta.
-Redacción de un correo electrónico para describir a un amigo/a.
-
-Culture Magazine
-Realización de un cuestionario sobre hábitos de los adolescentes. 
-Comprensión oral y escrita de los resultados de una encuesta para realizar varios ejercicios.
-TASK: elaboración de una encuesta y realización de la misma a 10 adolescentes para, posteriormente, crear gráficos a partir de los resultados.
-Realización de dos actividades sobre capitales del mundo.
-
-UNIDAD 3: Great Holidays
+#### Primer trimestre
 
 
+##### UNIDAD 1: At Home
+
+- Vocabulary
+  - Vocabulario relacionado con las partes de una casa y con el mobiliario.
+  - Identificación de adjetivos descriptivos de lugares.
+  - Comprensión y expresión oral de diferentes elementos de una casa.
+  - Advanced Language: breve explicación sobre la formación de nombres compuestos.
+
+- Grammar
+  - Estructura y usos de There is / There are.
+  - Uso correcto de la gramática que se ha visto a lo largo de la sección a través de distintas actividades.
+
+- Listening
+  - Comprensión oral unos planes sobre una casa.
+  - Expresión escrita de los datos que se piden relacionados con los planes sobre una casa.
+
+- Speaking
+  - Aplicación del vocabulario y la gramática vistos en la unidad, y puestos en práctica a través de la expresión oral.
+  - Práctica oral de las descripciones de una casa con el empleo de la gramática y el vocabulario vistos.
+  - Interacción oral con el compañero/a para describir las respectivas casas utilizando las expresiones dadas.
+
+- Reading
+  - Lectura de una crítica de un libro de misterio para realizar diferentes tipos de ejercicios. 
+  - False friends destacados en el texto.
+  - Comprensión de la información clave del texto.
+  - Identificación en el texto de palabras clave mediante sus definiciones.
+  - Advanced Language: formación de palabras a través de distintos sufijos para expresar nacionalidades.
+  - Word Power: ampliación de vocabulario y palabras que se confunden fácilmente.
+
+- Grammar
+  - Cuantificadores y determinantes para expresar cantidades.
+  - Uso correcto de la gramática que se ha visto a lo largo de la sección a través de distintas actividades.
+  - Advanced Grammar: uso de some para expresar cantidad.
+
+- Speaking
+  - Aplicación del vocabulario y la gramática vistos en la unidad, y puestos en práctica a través de la expresión oral.
+  - Práctica oral para describir una habitación con el empleo de la gramática y el vocabulario vistos.
+  - Interacción oral con el compañero/a para describir una habitación que hay en una fotografía utilizando las expresiones aprendidas.
+  - Advanced Speaking: uso de expresiones lingüísticas para ganar tiempo mientras se habla.
+
+- Skills
+  - Vocabulary
+  - Elementos de una casa.
+  - Comprensión y expresión oral de diferentes elementos que pueden encontrarse en una casa a través de un programa virtual para diseño de interiores.
+  - Realización de diferentes ejercicios para practicar el vocabulario aprendido.
+
+- Listening
+  - Comprensión oral de una conversación sobre unas compras a través de Internet.
+  - Realización de varios ejercicios para responder varias preguntas sobre el contenido de la conversación.
+  - Advanced Language: uso de  How many …? y How much …? para preguntar sobre cantidades.
+
+- Focus on Functional Language
+  - Repaso del lenguaje utilizado para describir habitaciones.
+
+- Pronunciation
+  - Pronunciación correcta de las contracciones de los verbos (ej. There’s, isn’t, aren’t).
+  - Patrones de acentuación de las palabras en la oración.
+  - Advanced Pronunciation: breve explicación sobre las palabras en las que recae el acento en la oración.
+
+- Speaking
+  - Interacción oral con el compañero/a para que este sea capaz de hacer un dibujo a partir de la descripción de una habitación utilizando las expresiones dadas.
+  - Advanced Speaking: preguntas frecuentes para asegurarse de que se está en lo cierto.
+
+- Writing
+  - Getting Ready to Write: análisis de la estructura de los contenidos de un texto descriptivo de una habitación.
+  - Análisis del lenguaje típico empleado a la hora de describir una habitación: There is / There are, preposiciones de lugar y adjetivos.
+  - Preparación antes de escribir un texto descriptivo practicando la estructura y el lenguaje típicos mediante la realización de varios ejercicios.
+  - Writing Task: producción de un texto descriptivo siguiendo los pasos facilitados en el apartado Getting Ready to Write.
+
+- Advance Your Language
+  - Repaso de los contenidos principales de la unidad, mediante la realización de ejercicios que ponen en práctica el vocabulario y la gramática.
+  - Tip: los determinantes a / an y the.
+
+- Geography: Houses Around the World
+  - Comprensión oral de la información que da una guía de un museo sobre una exposición para contestar una pregunta.
+  - Comprensión de un texto escrito sobre los diferentes tipos de casas que hay alrededor del mundo dependiendo de las diferentes formas de vida y culturas.
+  - False friends destacados en el texto.
+  - Realización de varios ejercicios para practicar el vocabulario clave del texto y demostrar que se han comprendido los contenidos.
+  - Identificación en el texto de palabras clave mediante sus definiciones.
+  - Localización en un mapa de los países mencionados en el texto.
+  - Did You Know?: datos curiosos e interesantes sobre los beduinos.
+  - Word Power: ampliación de vocabulario y palabras que se confunden fácilmente.
+
+- Advance Your Exam Skills
+  - Lectura y comprensión de señales y carteles presentes en la vida cotidiana para relacionarlos con unas frases.
+  - Comprensión oral de una conversación entre dos personas hablando sobre una casa de muñecas para elegir la respuesta correcta.
+  - Práctica oral del lenguaje empleado a la hora de describir una habitación.
+  - Redacción de un correo electrónico para describir una habitación.
+
+- Culture Magazine
+  - Comprensión oral y escrita de un texto sobre la vida en la Edad Media. 
+  - TASK: buscar información sobre un castillo medieval y escribir un texto breve sobre el mismo.
+  - Lectura de varios acontecimientos de la Edad Media para relacionarlos con los conceptos que se dan.
+  - Did You Know?: datos curiosos sobre la Peste Negra.
+
+
+##### UNIDAD 2: Teen Trends
+
+- Vocabulary
+  - Vocabulario relacionado con las actividades de ocio.
+  - Identificación de actividades en un texto escrito.
+  - Advance Language: expresiones con el verbo play.
+
+- Grammar
+  - Expresión de hábitos y actividades: Present Simple. Uso y formación de la afirmativa y la negativa. Expresiones temporales y adverbios de frecuencia.
+  - Uso correcto de la gramática que se ha visto a lo largo de la sección a través de distintas actividades.
+
+- Speaking
+  - Aplicación del vocabulario y la gramática vistos en la unidad, y puestos en práctica a través de la expresión oral.
+  - Práctica oral para hablar de actividades con el empleo de la gramática y el vocabulario vistos.
+  - Interacción oral con el compañero/a para hablar de las actividades que uno realiza en su tiempo de ocio utilizando las expresiones dadas.
+  - Advanced Speaking uso de expresiones temporales para hablar de la frecuencia con la que algo sucede.
+
+- Reading
+  - Lectura de los resultados de una encuesta publicados en una revista con el fin de realizar diferentes tipos de ejercicios. 
+  - False friends destacados en el texto.
+  - Comprensión de la información clave del texto.
+  - Did You Know?: datos curiosos e interesantes sobre los escolares japoneses.
+  - Identificación en el texto de palabras clave mediante sus definiciones.
+  - Word Power: ampliación de vocabulario y palabras que se confunden fácilmente.
+    
+- Grammar
+  - Expresión de hábitos y actividades: Present Simple. Uso y formación de la interrogativa. 
+  - Uso correcto de la gramática que se ha visto a lo largo de la sección a través de distintas actividades.
+
+- Listening
+  - Comprensión oral de la descripción de los hábitos de una adolescente.
+  - Expresión escrita de los datos que se piden relacionados con los hábitos de una adolescente.
+
+- Speaking
+  - Aplicación del vocabulario y la gramática vistos en la unidad, y puestos en práctica a través de la expresión oral.
+  - Práctica oral para hacer preguntas sobre diferentes temas con el empleo de la gramática y el vocabulario vistos.
+  - Interacción oral con el compañero/a para hacer y contestar preguntas utilizando las expresiones aprendidas.
+  - Advanced Speaking: uso de expresiones utilizadas para mostrar sorpresa ante una información.
+
+- Skills
+  - Vocabulary
+  - Expresiones relacionadas con hábitos y rutinas.
+  - Comprensión y expresión oral de diferentes hábitos.
+  - Advanced Language: breve explicación sobre las expresiones más utilizadas para dar la hora.
+  - Realización de varios ejercicios para practicar el vocabulario aprendido.
+
+- Listening
+  - Comprensión oral de dos mensajes de diferentes adolescentes hablando de sus rutinas para hacer una comparación de las mismas.
+  - Realización de varios ejercicios para comparar las rutinas de los dos adolescentes.
+    
+- Focus on Functional Language
+  - Repaso del lenguaje utilizado para hablar de actividades y rutinas.
+
+- Pronunciation
+  - Pronunciación correcta de las terminaciones -s y -es en la tercera persona del singular: /s/, /z/ e /Iz/.
+  - Entonación correcta en los diferentes tipos de interrogativas.
+  - Advanced Pronunciation: uso e identificación de las Yes / No questions y las Wh- questions a partir de la diferente entonación de cada una.
+
+- Speaking
+  - Interacción oral con el compañero/a para realizar una encuesta utilizando las expresiones dadas.
+  - Presentación oral en clase de los resultados de las encuestas.
+
+- Writing
+  - Getting Ready to Write: análisis de la estructura de los contenidos de un correo electrónico para presentarse a sí mismo/a.
+  - Análisis del lenguaje típico empleado a la hora de describirse a uno/a mismo/a: to be y have got para dar información personal, el Present Simple para hablar de los hábitos diarios y actividades, y preposiciones de tiempo para contextualizar la información anterior.
+  - Preparación antes de escribir un texto de presentación personal practicando la estructura y el lenguaje típicos mediante la realización de varios ejercicios.
+  - Writing Task: producción de un correo electrónico para presentarse a sí mismo/a siguiendo los pasos facilitados en el apartado Getting Ready to Write.
+
+- Advance Your Language
+  - Repaso de los contenidos principales de la unidad, mediante la realización de ejercicios que ponen en práctica el vocabulario y la gramática.
+  - Tip: los pronombres personales sujeto y los pronombres y adjetivos posesivos.
+
+- Social Science: Take a Break!
+  - Comprensión oral y escrita de un artículo sobre los beneficios de los descansos entre clases y los recreos en los centros educativos con el fin de contestar preguntas.
+  - False friends destacados en el texto.
+  - Realización de varios ejercicios para practicar el vocabulario clave del texto y demostrar que se han comprendido los contenidos.
+  - Did You Know?: datos curiosos e interesantes sobre el tiempo de descanso entre clases en los centros educativos de Finlandia.
+  - Word Power: ampliación de vocabulario y palabras que se confunden fácilmente.
+
+- Advance Your Exam Skills
+  - Lectura de un anuncio en la página web de una tienda de informática y un correo electrónico para completar una ficha.
+  - Comprensión oral de cinco conversaciones sobre hábitos y rutinas para elegir la respuesta correcta.
+  - Práctica oral del lenguaje empleado a la hora de realizar una encuesta.
+  - Redacción de un correo electrónico para describir a un amigo/a.
+
+- Culture Magazine
+  - Realización de un cuestionario sobre hábitos de los adolescentes. 
+  - Comprensión oral y escrita de los resultados de una encuesta para realizar varios ejercicios.
+  - TASK: elaboración de una encuesta y realización de la misma a 10 adolescentes para, posteriormente, crear gráficos a partir de los resultados.
+  - Realización de dos actividades sobre capitales del mundo.
+
+
+##### UNIDAD 3: Great Holidays
 
 Vocabulary
 Nombres de los accidentes geográficos.
@@ -1388,76 +1403,84 @@ TEMA 9
 Este Departamento hará las recomendaciones necesarias para aquellos alumnos que quieran ampliar su biblioteca personal con libros apropiados a su nivel. En este sentido se colaborará con la página web del centro.
 
 
-####Estrategias e instrumentos para la evaluación de los aprendizajes del alumnado y criterios de calificación. Variedad de instrumentos de calificación, incluyendo las pruebas orales con el correspondiente reflejo en la calificación
+## Estrategias e instrumentos para la evaluación de los aprendizajes del alumnado y criterios de calificación
 
-1.- De acuerdo con lo que se entiende por evaluación continua, el profesor objetivará la actuación del alumno a través de la observación sistemática  y el control diario de su aplicación en clase de acuerdo con los criterios metodológicos apuntados más arriba .El cumplimiento de los deberes, del trabajo en clase y en casa diario, de la asistencia y de las normas de conducta serán indispensables.  A la hora de decidir, en caso de duda, sobre la promoción a cursos superiores, el profesor tendrá en cuenta la actitud y situación personal del alumno valorando siempre las posibilidades de continuar con éxito en los cursos superiores.
-Se entenderá por actitud positiva, el interés y esfuerzo continuado del alumno desde principio a final de curso con unos resultados académicos que cubran los contenidos mínimos que refleja la ley anteriormente citada.
+1. De acuerdo con lo que se entiende por evaluación continua, el profesor objetivará la actuación del alumno a través de la observación sistemática  y el control diario de su aplicación en clase de acuerdo con los criterios metodológicos apuntados más arriba .El cumplimiento de los deberes, del trabajo en clase y en casa diario, de la asistencia y de las normas de conducta serán indispensables.  A la hora de decidir, en caso de duda, sobre la promoción a cursos superiores, el profesor tendrá en cuenta la actitud y situación personal del alumno valorando siempre las posibilidades de continuar con éxito en los cursos superiores.
+
+    Se entenderá por actitud positiva, el interés y esfuerzo continuado del alumno desde principio a final de curso con unos resultados académicos que cubran los contenidos mínimos que refleja la ley anteriormente citada.
 
 
-2.- Para juzgar las pruebas orales se tendrá en cuenta la pauta siguiente: hacerse entender, corrección  lingüística, coherencia expositiva y la lectura en alto realizada de manera comprensiva y razonada
+2. Para juzgar las pruebas orales se tendrá en cuenta la pauta siguiente: hacerse entender, corrección  lingüística, coherencia expositiva y la lectura en alto realizada de manera comprensiva y razonada
 
-3.- Entrega puntual de toda actividad encomendada para realizar fuera de clase a la vez que los cuadernos. Se valorará la presentación, orden, estructura, coherencia, limpieza y originalidad  de los trabajos, es decir, no se aceptará ningún tipo de plagio. Todo esto supone un 20% de la nota de evaluación junto con las pruebas  diarias en clase (ejercicios, gramática, lectura, actividades en pizarra,  redacciones, etc.) de las que el profesor tomará las correspondientes anotación. El incumplimiento por parte del alumno de lo arriba señalado  restará 0´25 por cada actividad no entregada o realizada tanto en casa como en clase. 
+3. Entrega puntual de toda actividad encomendada para realizar fuera de clase a la vez que los cuadernos. Se valorará la presentación, orden, estructura, coherencia, limpieza y originalidad  de los trabajos, es decir, no se aceptará ningún tipo de plagio. Todo esto supone un 20% de la nota de evaluación junto con las pruebas  diarias en clase (ejercicios, gramática, lectura, actividades en pizarra,  redacciones, etc.) de las que el profesor tomará las correspondientes anotación. El incumplimiento por parte del alumno de lo arriba señalado  restará 0´25 por cada actividad no entregada o realizada tanto en casa como en clase. 
 
-4.- Pruebas específicas que se valorarán sobre diez puntos, que se aprobarán a partir de un cinco y que serán corregidas por el profesor y mostradas en clase con posterioridad al alumno correspondiente. La no realización de una de estas pruebas sin causa justificada, será calificada con un cero. Si es justificada, el profesor puede optar por hacer el exámen en otro momento o por recuperarlo en otro siguiente al aplicar el criterio de evaluación contínua.
+4. Pruebas específicas que se valorarán sobre diez puntos, que se aprobarán a partir de un cinco y que serán corregidas por el profesor y mostradas en clase con posterioridad al alumno correspondiente. La no realización de una de estas pruebas sin causa justificada, será calificada con un cero. Si es justificada, el profesor puede optar por hacer el exámen en otro momento o por recuperarlo en otro siguiente al aplicar el criterio de evaluación contínua.
 Si el alumno es sorprendido copiando en una de estas pruebas o en actitud sospechosa (usando o intentando usar “chuletas”, copiando de un compañero ,,etc…), suspenderá el exámen automáticamente.
 
-5.- Sin cerrar exhaustivamente los porcentajes cada profesor informará a principio de curso a sus alumnos la proporción de nota que cada tipo de actividad supondrá para el cómputo final. En este departamento se otorgan los siguientes porcentajes: 80 %   a las pruebas específicas, y un 20% al resto de las pruebas realizadas por el alumno durante la correspondiente evaluación.  Se considerará indispensable el esfuerzo y trabajo continuado desde principio a final de curso.
+5. Sin cerrar exhaustivamente los porcentajes cada profesor informará a principio de curso a sus alumnos la proporción de nota que cada tipo de actividad supondrá para el cómputo final. En este departamento se otorgan los siguientes porcentajes: 80 %   a las pruebas específicas, y un 20% al resto de las pruebas realizadas por el alumno durante la correspondiente evaluación.  Se considerará indispensable el esfuerzo y trabajo continuado desde principio a final de curso.
 
-6.-Las actitudes negativas y reiteradamente avisadas por el profesor así como la falta de asistencia no justificada a clase serán sancionadas restando hasta un punto de la nota global de evaluación, siguiendo el criterio del profesor. La no realización de alguna actividad por no asistir a clase se sancionará negativamente si no es debidamente justificada. 
+6. Las actitudes negativas y reiteradamente avisadas por el profesor así como la falta de asistencia no justificada a clase serán sancionadas restando hasta un punto de la nota global de evaluación, siguiendo el criterio del profesor. La no realización de alguna actividad por no asistir a clase se sancionará negativamente si no es debidamente justificada. 
 
-7.- Se tendrá en cuenta que el alumno traiga todos los días los libros, cuadernos y material escolar pedido por el profesor, y que se respeten las normas sobre el mismo (utilización del tipex, responsabilidad de traer el material propio cada día, la limpieza en los cuadernos,  control de los deberes, anotaciones diarias en la agenda, etc). Es decir, todas aquellas propuestas recogidas en el plan de mejora de la metodología y convivencia del centro que contribuyen a un mayor aprovechamiento escolar.
+7. Se tendrá en cuenta que el alumno traiga todos los días los libros, cuadernos y material escolar pedido por el profesor, y que se respeten las normas sobre el mismo (utilización del tipex, responsabilidad de traer el material propio cada día, la limpieza en los cuadernos,  control de los deberes, anotaciones diarias en la agenda, etc). Es decir, todas aquellas propuestas recogidas en el plan de mejora de la metodología y convivencia del centro que contribuyen a un mayor aprovechamiento escolar.
 
-8.- Los alumnos serán evaluados y calificados de acuerdo con el nivel al que estén asignados: Alto-Medio-Bajo; hay que tener en cuenta  que estar en un nivel alto no presupone un aprobado si dicho alumno no se esfuerza ni trabaja lo suficiente, según sus capacidades.
-
+8. Los alumnos serán evaluados y calificados de acuerdo con el nivel al que estén asignados: Alto-Medio-Bajo; hay que tener en cuenta  que estar en un nivel alto no presupone un aprobado si dicho alumno no se esfuerza ni trabaja lo suficiente, según sus capacidades.
 
 Será obligatorio que todos los alumnos traigan los libros nuevos o borrados si son de  segunda mano. No se admiten libros con los ejercicios ya hechos. Además cada alumno debe traer el material escolar todos los días, así como lápiz, goma y bolígrafo para uso personal.
 
 Se realizarán una o dos pruebas objetivas trimestrales más todas las notas que el profesor ha ido recogiendo de cada alumno (diálogos, redacciones, tests puntuales, trabajos puntuales sobre lectura de libros, comentarios, preguntas cortas, controles, cuaderno de clase, trabajo en casa, trabajo en clase individual y en grupo, etc)
-     Este puede ser un resumen sistematizado:
-•	Observación sistemática del trabajo y de la participación e integración del alumno en clase.
-•	Intercambios orales: Preguntas y respuestas a estímulos orales en clase, diálogos sencillos, breves coloquios y debates.
-•	Ejercicios específicos que responden a los diversos objetivos programados en cada Unidad didáctica.
-•	Revisión y análisis de las actividades y trabajos realizados, recogidos en el cuaderno de clase y en ejercicios específicos.
-•	Aclaraciones sobre las pruebas específicas escritas de evaluación.
+     
+Este puede ser un resumen sistematizado:
 
-Es decir, todo lo expuesto en el aprtado anterior.
+-	Observación sistemática del trabajo y de la participación e integración del alumno en clase.
+-	Intercambios orales: Preguntas y respuestas a estímulos orales en clase, diálogos sencillos, breves coloquios y debates.
+-	Ejercicios específicos que responden a los diversos objetivos programados en cada Unidad didáctica.
+-	Revisión y análisis de las actividades y trabajos realizados, recogidos en el cuaderno de clase y en ejercicios específicos.
+-	Aclaraciones sobre las pruebas específicas escritas de evaluación.
 
-
-####Actividades de recuperación de los alumnos con materias pendientes de cursos anteriores
-
-     Para la recuperación  de cursos y evaluaciones pendientes en la ESO se tendrán en cuenta los siguientes criterios generales:
-1.- Curso pendiente: Los alumnos recuperarán el curso pendiente si aprueban el curso superior al pendiente. Esto no obsta a tener que realizar las pruebas prescritas en tiempo y manera para superar cursos: exámenes específicos en febrero/ mayo y en septiembre. Aprobando la primera evaluación del curso posterior al pendiente, queda recuperado. Las pruebas de recuperación serán escritas a no ser que el profesor lo indique de otra manera. Los contenidos de las pruebas de recuperación implican todo conocimiento de la lengua inglesa impartido hasta el momento de finalización del período suspenso.
-2.- En cualquier curso de ESO, aprobar la evaluación siguiente supondrá recuperar la anterior puesto que se aplica el criterio de evaluación continua. En caso de que el alumno  suspenda  la tercera evaluación teniendo aprobado lo anterior, podrá realizar un examen global para aprobar. En caso de abandono de la asignatura, el alumno no tendrá derecho a un examen global de recuperación. 
- No aprobará  ningún alumno que incurra en el abandono permanente o temporal de la asignatura. Se entenderá por abandono, no sólo la falta de asistencia a clase, sino también las siguientes actuaciones:
-- Falta de trabajo continua tanto en casa como en clase.
-- Sacar menos de 1´5 en un examen.
-- Actitud pasiva, negativa y desidiosa.
-
-3.- Al principio de cada curso de ESO y de cada evaluación se les recordará a los alumnos con materia pendiente que deben poner especial interés en revisar los ejercicios relacionados con dicha materia .
-     La falta injustificada a una prueba escrita supondrá la calificación de 0. 
-     La calificación negativa en junio supone la necesidad de recuperar toda la materia en septiembre. En septiembre no se tiene en cuenta la evaluación continua, sino la nota del examen. 
+Es decir, todo lo expuesto en el apartado anterior.
 
 
-####Medidas de atención a la diversidad
+## Actividades de recuperación de los alumnos con materias pendientes de cursos anteriores
+
+Para la recuperación  de cursos y evaluaciones pendientes en la ESO se tendrán en cuenta los siguientes criterios generales:
+
+1. Curso pendiente: Los alumnos recuperarán el curso pendiente si aprueban el curso superior al pendiente. Esto no obsta a tener que realizar las pruebas prescritas en tiempo y manera para superar cursos: exámenes específicos en febrero/ mayo y en septiembre. Aprobando la primera evaluación del curso posterior al pendiente, queda recuperado. Las pruebas de recuperación serán escritas a no ser que el profesor lo indique de otra manera. Los contenidos de las pruebas de recuperación implican todo conocimiento de la lengua inglesa impartido hasta el momento de finalización del período suspenso.
+
+2. En cualquier curso de ESO, aprobar la evaluación siguiente supondrá recuperar la anterior puesto que se aplica el criterio de evaluación continua. En caso de que el alumno  suspenda  la tercera evaluación teniendo aprobado lo anterior, podrá realizar un examen global para aprobar. En caso de abandono de la asignatura, el alumno no tendrá derecho a un examen global de recuperación. 
+
+    No aprobará  ningún alumno que incurra en el abandono permanente o temporal de la asignatura. Se entenderá por abandono, no sólo la falta de asistencia a clase, sino también las siguientes actuaciones:
+
+    - Falta de trabajo continua tanto en casa como en clase.
+    - Sacar menos de 1´5 en un examen.
+    - Actitud pasiva, negativa y desidiosa.
+    
+
+3. Al principio de cada curso de ESO y de cada evaluación se les recordará a los alumnos con materia pendiente que deben poner especial interés en revisar los ejercicios relacionados con dicha materia.
+     
+La falta injustificada a una prueba escrita supondrá la calificación de 0. 
+
+La calificación negativa en junio supone la necesidad de recuperar toda la materia en septiembre. En septiembre no se tiene en cuenta la evaluación continua, sino la nota del examen. 
+
+
+## Medidas de atención a la diversidad
 
 Advanced English in Use 1, método a utilizar en 1º ES O, tiene una metodología ecléctica, ya que se esperan varios estilos de aprendizaje por parte de los alumnos/as y, asimismo, diversos estilos de enseñanza por parte de los profesores/as. Por ello, estos materiales prestan mayor atención a la diversidad.
 
 Como punto de partida, hemos tenido en cuenta cuatro ámbitos de diversidad:
 
-LA CAPACIDAD PARA APRENDER A APRENDER
+### La capacidad para aprender a aprender 
 
 Cada alumno/a tiene su propia capacidad para aprender cosas y retenerlas sin que esto sea sinónimo de su capacidad intelectual, y todos son capaces de alcanzar un nivel mínimo independientemente del ritmo de trabajo que pueda tener cada uno. Tales son los aspectos que hemos considerado en la investigación inicial y en todo el desarrollo del curso.
 
 Así lo reflejan las actividades del Student’s Book y del Workbook, ya que, a través de un reciclaje continuo de estructuras y vocabulario, ofrecen, por un lado, amplias oportunidades de refuerzo a los alumnos/as con menos capacidad y, por otro, facilitan la ampliación de materia a los que tienen más nivel. 
 
-LA MOTIVACIÓN PARA APRENDER
+### La motivación para aprender
 
 La motivación del alumno/a para aprender es muy compleja, sobre todo tratándose de un idioma, pues depende de varios factores: por un lado, del historial de éxito o de fracaso que haya tenido hasta ese momento y, por otro, del proceso de aprendizaje que haya seguido. Esto influirá notablemente tanto en el nivel de motivaciones individuales como en la forma más lógica y funcional de presentarles todos los contenidos.
 
 Para llevar a cabo la selección de los temas incluidos en este curso hemos realizado una amplia investigación, abarcando no sólo el punto de vista del profesor/a a través de cuestionarios, sino también el de los alumnos/as, para así adaptarlos a sus edades, experiencias y entorno.
 
-
-LOS ESTILOS DE APRENDIZAJE
+### Los estilos de aprendizaje
 
 Existen toda clase de estudios sobre los diversos estilos de aprendizaje a la hora de estudiar un idioma.
 
@@ -1465,7 +1488,7 @@ Como es bien sabido, los alumnos/as pueden ser impulsivos o reflexivos cuando se
 
 También se ha prestado una atención especial a “la modalidad sensorial preferente” de los alumnos/as (visual, auditiva o quinesiológica), esto es, a las posibles formas de llevar a la práctica lo aprendido.
 
-LOS INTERESES DE LOS ALUMNOS/AS
+### Los intereses de los alumno/as
 
 El esfuerzo en aprender un idioma varía mucho de unos alumnos/as a otros, dependiendo de su interés y/o necesidad de hacerlo. Por ello, incluimos una gran variedad de temas, intentando que sean de interés para la mayoría, y ofrecemos materiales para atender a los distintos niveles de conocimiento y estilos de aprendizaje. Hay actividades graduadas de menor a mayor dificultad y de mayor a menor control tanto en el Student’s Book como en el Workbook.
 
@@ -1476,44 +1499,49 @@ Con este método se presenta un nuevo recurso lingüístico llamado Advanced Eng
 El Teacher’s Manual ofrece también actividades opcionales de refuerzo y ampliación, otras de dictado, comprensión oral, corrección de errores e información sociocultural e interdisciplinar adicional, además de continuas sugerencias al profesor/a sobre cómo dividir su ayuda según las distintas necesidades de la clase. 
 
 El Teacher’s All-in-One Pack ofrece un examen de diagnóstico que se recomienda hacer al principio de curso para ver el nivel de los alumnos/as, así como ejercicios de repaso para que revisen los puntos en los que encontraron mayor dificultad. Además ofrece nueve exámenes (uno por unidad) en tres niveles de dificultad, tres exámenes trimestrales en dos niveles de dificultad, dos finales y tres exámenes de competencias clave, para poder elegir el más adecuado según la capacidad de cada alumno/a. También proporciona un ejercicio adicional por unidad de expresión oral para realizar en pareja o en grupo. Y además incluye hojas de trabajo, que se han dividido de la siguiente manera:
+
 -	Extra Practice: proporcionan práctica adicional con el mismo nivel que el presentado en la unidad
 -	Extension: enfocadas a que los alumnos/as más avanzados puedan ampliar los conocimientos adquiridos de una manera más significativa y motivadora
-
 
 Para más detalles, consultar Metodología para grupos flexibles en el apartado de Metodología Didáctica.
 
 
-
-####Medidas de refuerzo educativo
+## Medidas de refuerzo educativo
 
 La estrategia de agrupamientos flexibles para la organización del aula ante la diversidad del alumnado, o de equipos específicos de trabajo, o de grupos de apoyo, clasificados por un nivel homogéneo de competencia curricular, será más factible con la explotación de actividades graduadas y previstas. 
+
 La utilización combinada de los materiales posibilita la respuesta a la diversidad en función de los objetivos previstos. 
-       A este respecto, el departamento ha concretado su actuación de la manera siguiente:
-       Los aspectos metodológicos de los agrupamientos de alumnos (agrupamientos flexibles), la organización de los espacios (Aula-grupo, aula-materia, aula de informática, etc.) y la organización de los tiempos (combinación de los períodos lectivos, desdobles), todo ello,son factores a tener en cuenta para el tratamiento de la diversidad. Habrá una adaptación (abridged booklet) para los alumnos acnees, como se apuntó arriba y de inferiores niveles.
 
-        Habrá unas actividades de refuerzo (fundamentalmente actividades de transfer  del propio booklet a los cuadernos particulares) a fin de que los alumnos de los grupos de menos nivel puedan avanzar más.
-       El material fundamental del área será el cuadernillo “Basic practice,”  para 1º de Eso, aparte del posible material fotocopiado que se entregará cuando proceda. 
-       Las pruebas de evaluación para los alumnos acnees y compensatoria consistirán en:
--La correcta presentación de las actividades y ejercicios planteados cada día (evaluación contínua).
--La asimilación de las mínimas competencias básicas constatadas en clase y la hora de desdoble, si hubiera.
--La realización de las concretas actividades comunes que asigne el profesor a realizar con el resto de la clase.
--Actitud por parte del alumno que implicará: seguimiento y cumplimiento de lo antes manifestado a la vez que una disposición adecuada durante el curso.
+A este respecto, el departamento ha concretado su actuación de la manera siguiente:
 
-      Los alumnos que reciben apoyo puntual debido a su retraso en el área pero que disfrutan de una adaptación no significativa, realizarán la misma prueba que el resto de compañeros, si bien, se les tendrá en cuenta tanto las observaciones del profesor de desdoble, el nivel del que parten y la corrección más puntual de las competencias elementales exigidas en las pruebas escritas, que no serán todos los ejercicios que el resto de los compañero realicen.
+- Los aspectos metodológicos de los agrupamientos de alumnos (agrupamientos flexibles), la organización de los espacios (Aula-grupo, aula-materia, aula de informática, etc.) y la organización de los tiempos (combinación de los períodos lectivos, desdobles), todo ello,son factores a tener en cuenta para el tratamiento de la diversidad. Habrá una adaptación (abridged booklet) para los alumnos acnees, como se apuntó arriba y de inferiores niveles.
+
+- Habrá unas actividades de refuerzo (fundamentalmente actividades de transfer  del propio booklet a los cuadernos particulares) a fin de que los alumnos de los grupos de menos nivel puedan avanzar más.
+      
+- El material fundamental del área será el cuadernillo “Basic practice,”  para 1º de Eso, aparte del posible material fotocopiado que se entregará cuando proceda. 
+       
+- Las pruebas de evaluación para los alumnos acnees y compensatoria consistirán en:
+
+- La correcta presentación de las actividades y ejercicios planteados cada día (evaluación contínua).
+
+- La asimilación de las mínimas competencias básicas constatadas en clase y la hora de desdoble, si hubiera.
+
+- La realización de las concretas actividades comunes que asigne el profesor a realizar con el resto de la clase.
+
+- Actitud por parte del alumno que implicará: seguimiento y cumplimiento de lo antes manifestado a la vez que una disposición adecuada durante el curso.
+
+- Los alumnos que reciben apoyo puntual debido a su retraso en el área pero que disfrutan de una adaptación no significativa, realizarán la misma prueba que el resto de compañeros, si bien, se les tendrá en cuenta tanto las observaciones del profesor de desdoble, el nivel del que parten y la corrección más puntual de las competencias elementales exigidas en las pruebas escritas, que no serán todos los ejercicios que el resto de los compañero realicen.
 
 
-####Materiales y recursos de desarrollo curricular
-
-
+## Materiales y recursos de desarrollo curricular
 
 El método será el “Advanced English in Use 1” para 1º de ESO grupos bilingües y “English in Use 1” para el resto de los alumnos de  la  Editorial Burlington. Consta de Libro del alumno, workbook y CDs con los textos y ejercicios que los alumnos van realizando. A su vez se trabajará periódicamente una gramática elemental “Grammar for ESO 1”. También se utilizará en 2º de ESO. También existe un Cdrom especial para trabajar en el aula de tics con la pizarra digital. Mapas, vídeo, cassette son otros medios de los que se dispondrá.
 Cuando proceda por bajo novel, se utilizará el método ”  Basic Practice 1”.
 
-
 Será obligatorio que todos los alumnos traigan los libros nuevos o borrados si son de  segunda mano. No se admiten libros con los ejercicios ya hechos. Además cada alumno debe traer el material escolar todos los días, así como lápiz, goma y bolígrafo para uso personal.
 
 
-####Programa de actividades extraescolares y complementarias
+## Programa de actividades extraescolares y complementarias
 
 -	Asistencia a una charla cultural ofrecida por la editorial Burlington sobre las costumbres de vida inglesas o sobre literatura, dirigida a los alumnos de ESO y Bachillerato en el mes de abril.    
                                                                                                
@@ -1526,20 +1554,19 @@ Será obligatorio que todos los alumnos traigan los libros nuevos o borrados si 
 -	Nuestra programación queda abierta a otras actividades que puedan surgir a  lo largo del año y que nos parezcan interesantes para la asignatura y para el alumnado.
 
 
+## Procedimiento de evaluación e indicadores de logro
 
-####Procedimiento de evaluación e indicadores de logro
+### Resultados de la evaluación del curso en cada una de las materias
 
-#####Resultados de la evaluación del curso en cada una de las materias
-
- 
  En las diversas reuniones de departamento se va comentando puntualmente los avances de la materia y los problemas que surgen a la vez que se analizan los resultados de los alumnos. Mayormente esta actividad viene impuesta desde Jefatura de Estudios y es el análisis contrastivo fundamental que se realiza. De acuerdo con ello el departamento analiza los resultados y toma las decisiones que juzga pertinentes.Además, se hacen las pruestas de mejora oportunas y las medidas a tomar para la mejora del rendimiento académico si fuera el caso. 
 
-#####Adecuación de los materiales y recursos didácticos, y la distribución de espacios y tiempos a los métodos didácticos y pedagógicos utilizados
+### Adecuación de los materiales y recursos didácticos, y la distribución de espacios y tiempos a los métodos didácticos y pedagógicos utilizados
 
 Los profesores  evaluamos si tenemos una distribución coherente de los contenidos en nuestras programaciones y  si  se consultan a lo largo del curso escolar y si se coordinan los profesores que dan el mismo nivel. Además se analizan las competencias básicas y fundamentales de la asignatura teniendo en cuenta las posibilidades que ofrece el entorno.
+
 Las agrupaciones de alumnos se hacen de diversas maneras, adecuándolos a las necesidades y situaciones.  Se evalúa si se utilizan diferentes tipos de materiales y las nuevas tecnologías disponibles, si se han realizado ejercicios creativos y comunicativos, el tiempo de clase en el que el profesor acapara la palabra, si se realizan diferentes tipos de pruebas, si se promueve el uso de técnicas básicas de estudio en las actividades, si se organiza bien el tiempo en clase.
 
 
-#####Contribución de los métodos didácticos y pedagógicos a la mejora del clima de aula y de centro
+### Contribución de los métodos didácticos y pedagógicos a la mejora del clima de aula y de centro
 
 Se introducen en la programación termas de  actualidad e interés para los alumnos. Se evalúa si los recursos y actividades son idóneos y se evalúa al alumno de manera integral, es decir, su situación, intereses, etc. Además se programan actividades de recuperación. Los alumnos conocen la programación y los objetivos definidos de cada actividad con el fin de involucrarlos y fomentar su participación activa. Además se les da la oportunidad de organizar determinadas actividades que permiten la búsqueda de diferentes recursos y fomentan tanto la autonomía como el trabajo cooperativo
