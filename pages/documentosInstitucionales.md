@@ -37,7 +37,7 @@ show_meta: false
 #### 1º ESO
 
 - Lengua Castellana y Literatura
-- Inglés
+- [Inglés](/1esoingles20152016/)
 - Geografía e Historia
 - Matemáticas
 - Biología y Geología
@@ -57,7 +57,7 @@ show_meta: false
 #### 3º ESO
 
 - [Lengua Castellana y Literatura](/3esolengua20152016/)
-- Inglés
+- [Inglés](/3esoingles20152016/)
 - Geografía e Historia
 - Matemáticas Académicas
 - Matemáticas Aplicadas
@@ -77,7 +77,7 @@ show_meta: false
 #### 1º de Bachillerato
 
 - Lengua Castellana y Literatura
-- Inglés 
+- [Inglés](/1bachingles20152016/)
 - [Filosofía](/1bachfilosofia20152016/)
 - Matemáticas Aplicadas CCSS
 - Latín I
