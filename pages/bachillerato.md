@@ -17,3 +17,4 @@ show_meta: false
 * [Aulas de referencia](/noticias/aulas-de-referencia-2015-2016/)
 * [Presentación sobre los aspectos más importantes de 2º de Bachillerato realizada el primer día de clase](https://docs.google.com/presentation/d/1dQXZP92Nq9Jm2OMbAKKZGdNu5dKU7Qc_g9luQz2NCDw/pub?start=false&loop=false&delayms=3000)
 * [Horarios de grupos](https://drive.google.com/open?id=0B4jaZeMGL7HsRDZva2dzaThteEE)
+* [Orientación](http://www.orientaline.es/?yafxb=36244)
