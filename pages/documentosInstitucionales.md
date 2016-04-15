@@ -39,7 +39,7 @@ show_meta: false
 - Lengua Castellana y Literatura
 - [Inglés](/1esoingles20152016/)
 - Geografía e Historia
-- Matemáticas
+- [Matemáticas](/1esomatematicas20152016/)
 - Biología y Geología
 - Educación Física
 - Educacación Física (Bilingüe)
