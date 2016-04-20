@@ -18,48 +18,49 @@ categories:
 
 
 
-### ¿Qué es esta carrera?
+### Álbum de fotos
 
-Por segundo año consecutivo nuestro Centro organiza una carrera con fines solidarios, en colaboración con dos ONGs:
+[![Imagen de la salida](/imagenes/IIcarreraSolidaria.jpg)](https://goo.gl/photos/SmGxwzBPx9zsYcQ49)
+
+* [Ver el álbum de fotos de la carrera](https://goo.gl/photos/SmGxwzBPx9zsYcQ49)
+
+
+
+### En qué consistió esta carrera?
+
+Por segundo año consecutivo nuestro Centro ha organziado una carrera con fines solidarios, en colaboración con dos ONGs:
 
 * [Save the Children](https://www.savethechildren.es/), que continúa con sus proyectos asistenciales en las zonas más empobrecidas del mundo.
 
 * [Asociación Humanitaria de Ayuda a Burkina Faso](https://es-es.facebook.com/ahdabf), que pretende poner en marcha una escuela de español en la capital de este país africano.
 
 
-> <span class="teaser">¡Anímate y participa, tu esfuerzo tiene recompensa!</span><cite>IES San Andrés</cite>
+> <span class="teaser">Gracias por participar, tu esfuerzo tiene recompensa!</span><cite>IES San Andrés</cite>
 
 
-### ¿Cómo puedo ayudar?
+### ¿Cómo se pudo ayudar?
 
-Os invitamos a que cada uno de vosotros colabore de diversos modos:
+Cada uno de vosotros pudo colaborar de diversos modos:
 
-* ¡Corriendo! Cada participante tendrá un carnet de corredor en el que reflejará patrocinadores y cantidad con que lo hacen.
+* ¡Corriendo! Cada participante dispuso de un carnet de corredor en el que quedaron reflejados sus patrocinadores y cantidad con que lo hicieron.
 
-* Si no quieres correr puedes ofrecerte como voluntario en la organización de la carrera. ¡Necesitamos tu ayuda!
+* Los que no quisieron correr pudieron ofrecerse como voluntarios en la organización de la carrera. ¡Su ayuda fue imprescindible!
 
-* En cualquiera de los casos anteriores puedes patrocinar con una pequeña cantidad a tus compañeros.
-
-
-### ¿Cuánto tengo que correr?
-
-La carrera no tiene una distancia establecida, de modo que cada uno puede adapatar su esfuerzo a su capacidad. Vamos a dar vueltas a un circuito de 830 metros en las proximidades del Instituto.
-
-Tus patrocinadores premiarán tu esfuerzo con una cantidad por cada vuelta, de modo que cuantas más vueltas completes más grande será tu aportación económica. Y si correr no es lo tuyo, ¡también puedes dar vueltas al circuito caminando!
+* En cualquiera de los casos anteriores, cada uno patrocinó con una pequeña cantidad a tus compañeros.
 
 
-### ¿Cómo me puedo apuntar?
+### ¿Cuánto tuvimos que correr?
 
-El plazo de inscripción comienza el 31 de marzo de 2016 y concluye el jueves 14 de abril de 2016. Te puedes apuntar en la Biblioteca del Centro durante los recreos de dicho periodo. Cuando te inscribas, recibirás el carnet de corredor y podrás ir apuntando a tus patrocinadores. Antes de la carrera te entregaremos el dorsal que se te haya asignado.
+La carrera no tuvo una distancia establecida, de modo que cada uno pudo adapatar su esfuerzo a su capacidad. Dimos vueltas a un circuito de 830 metros en las proximidades del Instituto.
 
-Los voluntarios también debéis apuntaros para que podamos contar con vuestra colaboración y conseguir que la carrera sea un éxito.
-
-
-### ¿Qué hago con el dinero recaudado?
-
-Una vez hayas terminado la carrera, en la línea de meta certificarán en tu carnet el número de vueltas completadas y, con ello, debes ir recogiendo el dinero que te hayas ganado de tus patrocinadores. Una vez lo tengas todo en tu poder, lo tienes que entregar entre los días 18 y 29 de abril de 2016 y, cuando se haya recogido todo, lo repartiremos al 50% entre las dos organizaciones con las que colaboramos.
+Los patrocinadores premiaron el esfuerzo con una cantidad por cada vuelta, de modo que cuantas más vueltas completó un corredor más grande fue su aportación económica. Y para los que correr no era lo suyo, ¡también pudieron dar vueltas al circuito caminando!
 
 
-### ¿Quién puede participar?
+### ¿Qué hicieron los alumnos con el dinero recaudado?
 
-En la carrera pueden participar alumnos, profesores, trabajadores del Centro, padres de alumnos y cualquier persona relacionada de una u otra forma con el Centro Educativo. Tened en cuenta que cuanto más seamos mayor será nuestra contribución.
+Una vez que terminaron la carrera, en la línea de meta se certificó en sus carnet el número de vueltas completadas y, con ello, recogieron el dinero pactado con los patrocinadores. Una vez lo tuvieron todo en tu poder, lo entregaron para ser repartido al 50% entre las dos organizaciones con las que colaboramos.
+
+
+### ¿Quienes pudieron participar?
+
+En la carrera participaron alumnos, profesores, trabajadores del Centro, padres de alumnos y otras personas relacionadas de una u otra forma con el Centro Educativo.
