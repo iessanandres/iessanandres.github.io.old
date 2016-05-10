@@ -420,7 +420,7 @@ El Departamento participará con entusiasmo en el plan del Centro “San Andrés
 
 
 
-## Estrategias e instrumentos para la evaluación de los aprendizajes del alumnado y criterios de calificación. Variedad de instrumentos de calificación, incluyendo las pruebas orales con el correspondiente reflejo en la calificación
+## Estrategias e instrumentos para la evaluación de los aprendizajes del alumnado y criterios de calificación
 
 Tanto las notas de exámenes escritos, como las observaciones que justifican las notas, de cada alumno, referentes a su cuaderno de trabajo, su actitud y su comportamiento se tendrán apuntadas en el Cuaderno del profesor. Esta información estará a disposición de alumnos y padres.
 
