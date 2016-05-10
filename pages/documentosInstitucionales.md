@@ -59,8 +59,8 @@ show_meta: false
 - [Lengua Castellana y Literatura](/3esolengua20152016/)
 - [Inglés](/3esoingles20152016/)
 - Geografía e Historia
-- Matemáticas Académicas
-- Matemáticas Aplicadas
+- [Matemáticas Académicas](/3esomatematicasacademicas20152016/)
+- [Matemáticas Aplicadas](/3esomatematicasaplicadas20152016/)
 - Biología y Geología
 - Física y Quimica
 - Educación Física
