@@ -26,7 +26,7 @@ show_meta: false
 
 [Descárgala en PDF](https://drive.google.com/open?id=0B4jaZeMGL7Hscmd4cDgtV2pleTA&authuser=0)
 
-[![Imagen](/imagenes/RIES2.jpg)](http://www.flipgorilla.com/p/23837411469428441/show)
+[![Imagen](/imagenes/RIES2.jpg)](https://drive.google.com/open?id=0B4jaZeMGL7Hscmd4cDgtV2pleTA&authuser=0)
 
 
 
