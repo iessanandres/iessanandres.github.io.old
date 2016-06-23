@@ -14,6 +14,9 @@ show_meta: false
 * Will be replaced with the ToC, excluding the "Contents" header
 {:toc}
 
+
+## Instrucciones
+
 * [Instrucciones de matrícula para todos los cursos](https://drive.google.com/uc?export=download&id=0B4jaZeMGL7HsLS13ckNJZ1diS1k)
 
 ## ESO
