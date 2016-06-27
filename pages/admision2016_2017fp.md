@@ -17,3 +17,7 @@ Para más información, puedes consultar los siguientes enlaces:
 
 * [Sección "Admisión y matrícula" del portal de FP de la Junta de Castilla y León](http://www.educa.jcyl.es/fp/es/admision-matricula)
 * [Sede electrónica de la Junta de Castilla y León](https://www.tramitacastillayleon.jcyl.es/web/jcyl/AdministracionElectronica/es/Plantilla100DetalleFeed/1251181050732/Tramite/1284430664196/Tramite)
+
+Previsión de vacantes en la oferta presencial para los Ciclos Formativos que se imparten en el IES San Andrés:
+
+* [Previsión de vacantes](/documentos/VacantesFP2016-2017.pdf)
