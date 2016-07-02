@@ -65,10 +65,17 @@ show_meta: false
 
 
 
-### 2º Bachillerato LOMCE
+### 2º Bachillerato Ciencias LOMCE
 
 * [Instrucciones](https://drive.google.com/uc?export=download&id=0B4jaZeMGL7HsLS13ckNJZ1diS1k)
-* Solicitud
+* [Solicitud](https://drive.google.com/uc?export=download&id=0B4jaZeMGL7HsMERwTDBvZ05lZjQ)
+* [Autorización de utilización del servicio de transporte escolar](http://www.googledrive.com/host/0B4jaZeMGL7HsRDNNeXcyaUJBR2c)
+
+
+### 2º Bachillerato Sociales LOMCE
+
+* [Instrucciones](https://drive.google.com/uc?export=download&id=0B4jaZeMGL7HsLS13ckNJZ1diS1k)
+* [Solicitud](https://drive.google.com/uc?export=download&id=0B4jaZeMGL7HsMmlnQ2VsRUdRbWs)
 * [Autorización de utilización del servicio de transporte escolar](http://www.googledrive.com/host/0B4jaZeMGL7HsRDNNeXcyaUJBR2c)
 
 
